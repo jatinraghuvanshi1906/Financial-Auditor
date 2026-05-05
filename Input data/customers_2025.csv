@@ -1,0 +1,1001 @@
+customer_id,customer_fname,customer_lname,email,phone,created_at,status
+1,Customer_0,Customer_0,,9.18181E+11,10/14/2025 0:24,inactive
+,Customer_1,Customer_1,customer1@example.com,,4/1/2025 8:33,inactive
+3,Customer_2,Customer_2,customer2@example.com,9.19341E+11,8/17/2025 20:21,Inactive
+4,Customer_3,,customer3example.com,9.18815E+11,3/25/2025 14:52,inactive
+5, Customer_4 ,, customer4@example.com ,9.18477E+11,1/17/2025 20:59,unknown
+6,Customer_5,,customer5@example.com,9.19371E+11,8/29/2025 5:01,
+7,Customer_6,Customer_6,   ,9.1984E+11,1/31/2025 23:42,ACTIVE
+8,Customer_7,Customer_7,customer7@example.com,9.18567E+11,3/23/2025 8:44,ACTIVE
+9,Customer_8,Customer_8,CUSTOMER8@EXAMPLE.COM,9.19727E+11,4/6/2025 1:48,
+INVALID_ID,Customer_9,Customer_9,customer9@example.com,9.19392E+11,11/24/2025 7:56,ACTIVE
+11,Customer_10,Customer_10,customer10@example.com,9.18723E+11,12/21/2025 15:02,inactive
+12,Customer_11,Customer_11,customer11@example.com,9.18699E+11,6/28/2025 4:48,
+13,Customer_12,Customer_12,customer12@example.com,9.19511E+11,6/5/2025 2:40,
+14,Customer_13,Customer_13,customer13@example.com,9.17202E+11,9/1/2025 16:13,inactive
+15,Customer_14,Customer_14,customer14@example.com,9.19559E+11,4/8/2025 15:20,
+16,,,customer15@example.com,9.19928E+11,4/14/2025 14:59,unknown
+17,Customer_16,Customer_16,customer16example.com,9.17014E+11,4/13/2025 6:57,
+18,Customer_17,Customer_17, customer17@example.com ,9.19686E+11,7/17/2025 3:45,
+999999,Customer_18,Customer_18,customer18@example.com,9.19278E+11,5/6/2025 21:21,
+-1,Customer_19,Customer_19,customer19@example.com,9.18321E+11,12/7/2025 23:38,inactive
+21,Customer_20,Customer_20,customer20@example.com,9.19288E+11,9/14/2025 5:19,inactive
+22,Customer_21,Customer_21,customer21@example.com,9.18817E+11,10/21/2025 7:34,
+23,Customer_22,Customer_22,customer22@example.com,9.19791E+11,6/25/2025 8:09,
+INVALID_ID,Customer_23,Customer_23,customer23@example.com,9.17988E+11,1/28/2025 13:42,active
+25,   ,   ,,9.18419E+11,4/19/2025 3:35,inactive
+26,Customer_25,Customer_25,customer25@example.com,9.19453E+11,11/1/2025 17:10,inactive
+27, Customer_26 , Customer_26 ,customer26@example.com,9.18522E+11,12/2/2025 11:32,Inactive
+28,Customer_27,Customer_27, customer27@example.com ,9.18729E+11,12/1/2025 15:22,unknown
+29,Customer_28,Customer_28,customer28@ex@mple.com,9.17788E+11,12/6/2025 14:47,inactive
+30,Customer_29,Customer_29,customer29@example.com,9.17217E+11,,
+INVALID_ID,Customer_30,Customer_30,customer30@example.com,9.18746E+11,12/2/2025 19:07,inactive
+32,Customer_31,Customer_31,customer31@example.com,9.18139E+11,6/26/2025 16:59,unknown
+33,Customer_32,Customer_32,customer32@example.com,9.19843E+11,3/15/2025 17:58,inactive
+34,Customer_33,Customer_33,customer33@example.com,   ,7/5/2025 3:59,
+35,Customer_34,Customer_34,customer34@example.com,9.17344E+11,20-08-2025,active
+36,Customer_35,Customer_35,customer35@example.com,9.19447E+11,1/16/2025 10:25,
+37,Customer_36,Customer_36,customer36@example.com,9.1812E+11,5/3/2025 0:24,
+38,Customer_37,Customer_37,customer37@example.com,9.18358E+11,1/4/2025 14:49,active
+INVALID_ID,Customer_38,Customer_38,CUSTOMER38@EXAMPLE.COM,9.17915E+11,12/29/2025 10:36,inactive
+40,Customer_39,Customer_39,customer39@example.com,9.18882E+11,4/28/2025 11:39,
+41,Customer_40,Customer_40,,9.19382E+11,2/10/2025 5:29,
+42,Customer_41!!@#,Customer_41!!@#, customer41@example.com ,9.19376E+11,8/23/2025 21:25,ACTIVE
+43,Customer_42,Customer_42,customer42@example.com,9.19171E+11,1/20/2025 17:28,unknown
+44,Customer_43,Customer_43,,9.17562E+11,3/4/2025 18:03,ACTIVE
+,Customer_44,Customer_44,,9.17323E+11,12/18/2025 1:13,
+46,Customer_45,Customer_45,customer45@example.com,+918845919895!!@#,5/22/2025 14:47,ACTIVE
+47,Customer_46,Customer_46,customer46@example.com,9.17902E+11,2/9/2025 22:06,
+48,Customer_47,Customer_47,customer47@example.com,9.17664E+11,12/2/2025 18:42,inactive
+49,Customer_48,Customer_48,customer48@example.com,9.1777E+11,10/31/2025 20:22,ACTIVE
+,Customer_49,Customer_49,customer49@example.com,9.18146E+11,2/11/2025 23:31,
+51,Customer_50,Customer_50,customer50@example.com,9.18977E+11,11/5/2025 21:09,unknown
+52,Customer_51,Customer_51,customer51@example.com,9.18197E+11,4/19/2025 9:38,unknown
+53,Customer_52,Customer_52,customer52@example.com,9.18422E+11,12/7/2025 14:35,active
+54,Customer_53,Customer_53,customer53@example.com,9.17466E+11,10/10/2025 22:31,ACTIVE
+55,Customer_54,Customer_54,customer54@example.com!!@#,9.19476E+11,10/3/2025 6:21,active
+56,Customer_55,Customer_55,customer55@example.com,9.1988E+11,1/28/2025 4:12,Inactive
+57,Customer_56,Customer_56,customer56@example.com,9.17535E+11,7/16/2025 22:43,ACTIVE
+58,Customer_57,Customer_57,customer57@example.com,9.17547E+11,5/28/2025 5:53,
+59,Customer_58,Customer_58,customer58@example.com,9.19353E+11,4/22/2025 10:13,ACTIVE
+60,Customer_59,Customer_59,customer59@example.com,9.18897E+11,7/18/2025 12:29,inactive
+61,Customer_60,Customer_60,customer60example.com,9.17364E+11,9/3/2025 19:26,
+62,Customer_61,Customer_61,customer61@example.com,9.18333E+11,2025-13-01 25:61:00,inactive
+63,Customer_62,Customer_62,customer62@example.com,9.17313E+11,8/12/2025 13:38,
+64,Customer_63,Customer_63,customer63@example.com,9.19818E+11,12/1/2025 3:53,unknown
+65,Customer_64,Customer_64,customer64@example.com@@domain,9.19989E+11,8/5/2025 11:23,active
+66,Customer_65,Customer_65,customer65@example.com,9.19867E+11,8/20/2025 6:01,
+67,Customer_66,Customer_66,customer66@example.com,9.19168E+11,6/23/2025 4:12,
+68,Customer_67,Customer_67,customer67@example.com,9.18062E+11,10/25/2025 9:54,ACTIVE
+-1,Customer_68,Customer_68,customer68@example.com,9.18227E+11,5/5/2025 3:54,ACTIVE
+70,Customer_69,Customer_69,customer69@example.com,9.17656E+11,6/11/2025 2:50,active
+,Customer_70,Customer_70,customer70@example.com,9.18805E+11,8/15/2025 20:00,unknown
+72,Customer_71,Customer_71,customer71@example.com,,4/26/2025 23:16,ACTIVE
+73,Customer_72,Customer_72,customer72@example.com,9.19346E+11,7/9/2025 14:37,inactive
+74,,,customer73@example.com,9.19917E+11,3/6/2025 2:19,
+75,Customer_74,Customer_74,customer74@example.com,9.18692E+11,1/11/2025 12:36,
+76,Customer_75,Customer_75,customer75@example.com@@domain,9.18117E+11,6/26/2025 14:06,inactive
+77,Customer_76,Customer_76,customer76@example.com,9.18811E+11,,active
+78,Customer_77,Customer_77,customer77@example.com,   ,1/16/2025 15:13,
+79,Customer_78,Customer_78,,9.17654E+11,9/17/2025 23:48,Inactive
+80,Customer_79,Customer_79,customer79@example.com,9.18584E+11,10/18/2025 11:10,
+81,Customer_80,Customer_80,customer80@example.com,,8/12/2025 14:48,ACTIVE
+82,Customer_81,Customer_81,customer81@example.com,9.17326E+11,9/1/2025 14:19,unknown
+83,Customer_82,Customer_82,customer82@example.com,9.1752E+11,12/5/2026 22:41,
+84,Customer_83,Customer_83,   ,9.19781E+11,6/13/2025 3:13,unknown
+85,Customer_84,Customer_84,customer84@example.com,9.18975E+11,3/10/2025 9:42,Inactive
+86,Customer_85,Customer_85,customer85@example.com,9.19311E+11,6/19/2025 3:50,Inactive
+87,Customer_86,Customer_86,customer86@example.com,9.17372E+11,4/5/2025 16:58,Inactive
+88,Customer_87,Customer_87,customer87@example.com,9.19123E+11,7/9/2025 8:17,inactive
+89,Customer_88,Customer_88,customer88@example.com,9.18187E+11,3/16/2025 4:46,
+,Customer_89,Customer_89,customer89@example.com,9.19966E+11,7/10/2025 14:47,
+91,Customer_90,Customer_90,customer90@example.com,9.18045E+11,5/24/2025 7:31,
+92,Customer_91,Customer_91,customer91@example.com,9.18421E+11,4/16/2025 5:07,Inactive
+93,Customer_92,Customer_92,customer92@example.com,9.19302E+11,3/13/2025 21:43,
+94,Customer_93,Customer_93,customer93@example.com,9.19253E+11,11/20/2025 8:39,active
+95,Customer_94,Customer_94,,+919294092753!!@#,1/22/2025 4:13,active
+96,Customer_95!!@#,Customer_95!!@#,customer95@example.com,9.19108E+11,8/11/2025 22:39,active
+97,Customer_96,Customer_96,customer96@example.com,9.18084E+11,2/14/2025 7:22,Inactive
+-1,CUSTOMER_97,,customer97@example.com,9.1723E+11,8/7/2025 14:02,unknown
+99,Customer_98,Customer_98,customer98@example.com,9.18787E+11,8/29/2025 4:04,unknown
+100,Customer_99,Customer_99,customer99@example.com,9.19528E+11,8/9/2025 20:00,ACTIVE
+101,Customer_100,Customer_100,customer100@example.com,9.17892E+11,9/14/2025 11:38,ACTIVE
+102,Customer_101,Customer_101,customer101example.com,9.18755E+11,7/2/2025 11:54,
+103,Customer_102,,customer102@example.com,9.1895E+11,12/25/2025 19:28,inactive
+104,Customer_103,Customer_103,customer103@example.com,9.1785E+11,3/29/2025 7:22,
+105,Customer_104,Customer_104,CUSTOMER104@EXAMPLE.COM,9.17713E+11,10/18/2025 20:47,
+106,Customer_105,Customer_105,customer105@example.com,9.18306E+11,7/14/2025 8:44,ACTIVE
+107,Customer_106,Customer_106,customer106@example.com,9.18384E+11,2/5/2025 11:13,active
+,Customer_107,Customer_107,customer107@example.com,9.17089E+11,11/16/2025 0:12,
+109,Customer_108,Customer_108,customer108@example.com,9.19798E+11,3/12/2025 11:36,ACTIVE
+110,Customer_109,,customer109@example.com,9.19019E+11,5/5/2025 16:28,ACTIVE
+,Customer_110,Customer_110,customer110@example.com,9.18238E+11,11/12/2025 22:59,Inactive
+112,CUSTOMER_111,CUSTOMER_111,customer111@example.com,9.17498E+11,12/2/2025 21:33,Inactive
+113,Customer_112,Customer_112,customer112@example.com,   ,5/21/2025 12:01,
+114,Customer_113,Customer_113,   ,9.18147E+11,6/20/2025 3:32,ACTIVE
+115,,,customer114@example.com,9.18028E+11,,ACTIVE
+116,Customer_115,Customer_115,customer115@example.com,9.17487E+11,9/9/2025 13:05,active
+117,Customer_116,Customer_116,customer116@example.com,9.18174E+11,7/3/2025 9:24,Inactive
+118,Customer_117,Customer_117,customer117@example.com,9.19183E+11,2/12/2025,inactive
+119,Customer_118,Customer_118,customer118@example.com,9.19181E+11,4/20/2025 20:15,active
+120,Customer_119,Customer_119,customer119@example.com,9.17638E+11,5/15/2025 0:47,Inactive
+121,Customer_120,Customer_120,customer120@example.com,9.1781E+11,8/11/2025 1:32,inactive
+122,Customer_121,Customer_121,customer121@example.com,9.19031E+11,5/29/2025 1:19,unknown
+123,Customer_122,Customer_122,customer122@example.com,9.19127E+11,7/15/2025 1:41,inactive
+124, Customer_123 , Customer_123 ,customer123@example.com,9.17428E+11,1/6/2025 23:02,Inactive
+125,Customer_124,Customer_124,customer124example.com,9.19016E+11,5/12/2025 11:37,ACTIVE
+126,CUSTOMER_125,CUSTOMER_125,customer125@example.com,9.19896E+11,5/3/2025 23:29,Inactive
+127,Customer_126,Customer_126,customer126@example.com,   ,9/23/2025 19:03,
+128,Customer_127,Customer_127,customer127@example.com,9.17423E+11,12/5/2025 21:01,
+129,Customer_128,Customer_128,,9.18393E+11,5/20/2025 5:07,ACTIVE
+130,Customer_129,Customer_129,customer129@example.com,9.17773E+11,8/25/2025 16:52,active
+131,Customer_130,Customer_130,customer130@example.com,9.17615E+11,4/9/2025 15:14,
+132,Customer_131,Customer_131,customer131@example.com,9.18235E+11,1/29/2025 16:26,inactive
+133,Customer_132,Customer_132,customer132@example.com,9.18822E+11,11/25/2025 6:48,Inactive
+134,Customer_133,Customer_133, customer133@example.com ,9.18638E+11,4/25/2025 21:43,
+135,Customer_134,Customer_134,customer134@example.com,,9/24/2025 8:06,unknown
+136,Customer_135,Customer_135,customer135@example.com,9.18229E+11,8/24/2025 18:15,inactive
+137,Customer_136,Customer_136,customer136@example.com,9.19831E+11,9/1/2025 23:41,inactive
+138,,,customer137@example.com,9.17143E+11,2/21/2025 0:50,
+139,Customer_138,Customer_138,customer138@example.com@@domain,9.17568E+11,7/26/2025 3:54,ACTIVE
+140,Customer_139,Customer_139,customer139@example.com,9.1907E+11,10/17/2025 22:26,ACTIVE
+141,Customer_140,Customer_140,CUSTOMER140@EXAMPLE.COM,9.17969E+11,9/19/2025 21:55,
+142,Customer_141,Customer_141,customer141@example.com,,2/17/2025 23:55,
+,Customer_142,Customer_142,customer142@example.com,9.19743E+11,9/20/2025 1:55,active
+144,Customer_143,Customer_143,customer143@example.com,9.1962E+11,9/4/2025 18:23,active
+999999,Customer_144,Customer_144,customer144@example.com,,4/29/2025 4:53,active
+146,Customer_145,Customer_145,customer145@example.com,9.18669E+11,10/16/2025 14:34,
+147,Customer_146,Customer_146,customer146@example.com,9.18782E+11,7/10/2025 1:02,unknown
+148,Customer_147,Customer_147,customer147@example.com,9.17933E+11,11/29/2025 5:22,inactive
+999999,Customer_148,Customer_148,customer148@example.com,9.1977E+11,4/18/2025 3:24,Inactive
+INVALID_ID,Customer_149,Customer_149,customer149@example.com,9.19847E+11,8/20/2025 21:48,
+151,Customer_150,Customer_150,customer150@example.com,9.19425E+11,10/25/2025 3:47,unknown
+152,Customer_151,Customer_151,customer151@example.com,9.17634E+11,1/2/2025 2:25,
+153,Customer_152,Customer_152,customer152@example.com,9.17749E+11,1/11/2025 0:17,unknown
+154,Customer_153,Customer_153,customer153@example.com,9.17068E+11,2/19/2025 5:28,active
+155,Customer_154,Customer_154,customer154@example.com,9.18555E+11,6/25/2025 12:59,active
+INVALID_ID,,,customer155@example.com,9.1983E+11,9/7/2025 20:22,Inactive
+157,Customer_156,Customer_156,customer156@example.com,9.19947E+11,12/20/2025 7:01,
+158,Customer_157,Customer_157,customer157@ex@mple.com,9.17542E+11,8/16/2025 7:59,
+999999,Customer_158,Customer_158,customer158@example.com,9.18949E+11,2/8/2025 12:24,Inactive
+160,Customer_159,Customer_159,customer159@example.com,9.19368E+11,6/17/2025 0:32,inactive
+161,Customer_160,Customer_160,customer160@example.com,9.18787E+11,6/15/2025 17:43,ACTIVE
+162,Customer_161,Customer_161,customer161@example.com,   ,2/3/2025 3:39,unknown
+999999,Customer_162,Customer_162,customer162@example.com,   ,8/7/2025 3:16,
+164,Customer_163,Customer_163,customer163@example.com,9.18816E+11,1/20/2025 23:30,
+165,Customer_164,Customer_164,customer164@example.com,9.17914E+11,3/29/2025 2:06,Inactive
+166,Customer_165,Customer_165,customer165@example.com!!@#,9.18196E+11,6/16/2025 15:37,unknown
+167,Customer_166,Customer_166,customer166@example.com,9.1976E+11,12/27/2025 19:41,
+168,,,customer167@example.com,9.18327E+11,1/3/2025 8:54,ACTIVE
+169,Customer_168,Customer_168,   ,9.19719E+11,10/17/2025 18:15,active
+170,Customer_169,Customer_169,customer169example.com,9.18338E+11,8/9/2025 10:21,unknown
+171,Customer_170,Customer_170,customer170@example.com,9.17214E+11,6/22/2025 2:06,ACTIVE
+172,Customer_171,Customer_171,customer171@example.com,+919200510647!!@#,2/13/2025 1:34,Inactive
+173,Customer_172,Customer_172,customer172@example.com,9.17195E+11,,
+174,Customer_173,Customer_173,customer173@ex@mple.com,9.18097E+11,1/4/2025 0:02,active
+-1,Customer_174!!@#,Customer_174!!@#,customer174@example.com,9.17988E+11,9/17/2025 10:39,unknown
+176,Customer_175,Customer_175,,9.1708E+11,12/1/2025 19:26,active
+177,Customer_176,Customer_176,customer176@example.com,+918243458354!!@#,5/7/2025 3:03,active
+178,Customer_177,Customer_177,customer177@example.com,9.18554E+11,2/11/2025 2:42,unknown
+-1,Customer_178,Customer_178,customer178@example.com,9.18333E+11,5/10/2025 8:25,inactive
+180,Customer_179,Customer_179,customer179@example.com,9.17833E+11,5/17/2025 8:29,ACTIVE
+181,Customer_180,Customer_180,customer180@example.com,9.17629E+11,8/22/2025 22:45,inactive
+182,CUSTOMER_181,CUSTOMER_181,customer181@example.com,9.19697E+11,8/7/2025 22:23,unknown
+183,Customer_182,Customer_182,customer182@example.com,9.19729E+11,12/2/2025 15:21,ACTIVE
+184,Customer_183,Customer_183,customer183@example.com,9.19712E+11,9/22/2026 16:25,ACTIVE
+185,Customer_184,Customer_184,customer184@example.com,9.17244E+11,1/30/2025 19:11,ACTIVE
+, Customer_185 , Customer_185 ,customer185@example.com,9.18651E+11,11/4/2025 12:16,
+INVALID_ID,Customer_186,Customer_186,customer186@example.com,9.17808E+11,7/14/2025 17:04,Inactive
+, Customer_187 , Customer_187 ,customer187@example.com,9.18475E+11,7/15/2025 22:44,active
+189,Customer_188,Customer_188,customer188@example.com,9.19251E+11,5/22/2025 7:46,inactive
+190,Customer_189,Customer_189,customer189@example.com,   ,9/9/2025 9:19,
+191,Customer_190,Customer_190,customer190@example.com,9.18082E+11,12/18/2025 23:43,
+999999,CUSTOMER_191,CUSTOMER_191,customer191@example.com,9.18502E+11,9/29/2025 6:18,
+193,Customer_192,Customer_192,CUSTOMER192@EXAMPLE.COM,9.19401E+11,5/8/2025 13:37,unknown
+194,Customer_193,Customer_193,customer193@example.com,9.19944E+11,9/8/2025 21:23,active
+195,,,customer194@example.com,9.1792E+11,7/8/2025 20:22,unknown
+196,Customer_195,Customer_195,customer195@example.com,9.17434E+11,11/21/2025 7:52,
+197,Customer_196,Customer_196,customer196@example.com,9.19654E+11,3/1/2025 21:44,Inactive
+198,Customer_197,Customer_197,customer197@example.com,9.17711E+11,6/9/2025 13:28,active
+199,Customer_198,Customer_198,customer198@example.com,9.18928E+11,5/1/2025 4:26,inactive
+200,Customer_199,Customer_199,customer199@example.com,9.19913E+11,6/29/2025 7:10,Inactive
+201,Customer_200,Customer_200,customer200@example.com,9.17696E+11,8/23/2025 19:52,unknown
+999999,Customer_201,Customer_201,customer201@example.com,9.19382E+11,11/25/2025 12:17,
+203,CUSTOMER_202,CUSTOMER_202,customer202example.com,9.1893E+11,11/19/2025 17:55,inactive
+204,Customer_203,Customer_203,customer203@example.com,9.18501E+11,1/21/2025 16:23,Inactive
+205,Customer_204,Customer_204,CUSTOMER204@EXAMPLE.COM,,11/22/2025 21:41,active
+206,Customer_205,Customer_205,,9.19029E+11,10/22/2025 16:54,inactive
+207,,,CUSTOMER206@EXAMPLE.COM,9.18099E+11,8/2/2025 3:13,inactive
+208,Customer_207,Customer_207,customer207@example.com,9.18021E+11,4/3/2025 14:25,active
+209,Customer_208,Customer_208,customer208@example.com!!@#,9.19147E+11,9/3/2025 10:14,active
+210,Customer_209,Customer_209,customer209@example.com,9.19641E+11,6/11/2025 18:41,
+211,Customer_210,Customer_210,customer210@example.com,9.19259E+11,7/17/2025 3:23,unknown
+212,Customer_211,Customer_211,customer211@example.com,9.18603E+11,5/19/2025 16:21,active
+213,Customer_212,Customer_212,customer212@example.com,9.19499E+11,3/28/2026 19:28,ACTIVE
+214,Customer_213,Customer_213,customer213@example.com@@domain,9.19941E+11,7/5/2025 20:14,
+215,   ,   ,customer214@example.com,,1/18/2025 0:18,inactive
+216,Customer_215,Customer_215,customer215@example.com,9.1871E+11,7/3/2025 20:24,
+217,Customer_216,Customer_216,customer216@example.com,9.17205E+11,4/17/2025 2:33,ACTIVE
+218,Customer_217,Customer_217,customer217@example.com,9.18661E+11,7/12/2025 16:56,inactive
+219,Customer_218,Customer_218,customer218@example.com,9.17355E+11,6/17/2025 5:32,active
+220,Customer_219,Customer_219,customer219@example.com,9.17344E+11,4/30/2025 0:44,ACTIVE
+221,Customer_220,Customer_220,customer220@example.com,,12/21/2025 0:47,unknown
+222,Customer_221,Customer_221,customer221@example.com,9.17246E+11,6/7/2025 18:09,
+999999,Customer_222,Customer_222,customer222@example.com,9.17613E+11,10/31/2025 10:21,
+224,Customer_223,Customer_223,customer223@example.com,9.18555E+11,1/13/2025 13:51,
+225,Customer_224,Customer_224,customer224@example.com,9.1733E+11,5/23/2025 12:13,
+226,Customer_225,Customer_225,customer225@example.com!!@#,9.17799E+11,12/21/2025 18:49,Inactive
+227,Customer_226,Customer_226,customer226@example.com,9.19628E+11,3/19/2025 17:47,Inactive
+228,Customer_227,Customer_227,customer227@example.com,9.18912E+11,9/22/2025 20:02,unknown
+229,Customer_228,Customer_228,customer228@example.com,9.19362E+11,11/27/2025 15:16,ACTIVE
+230,Customer_229,Customer_229,customer229@example.com@@domain,9.18553E+11,3/20/2025 1:16,active
+231,Customer_230,Customer_230,customer230@example.com,9.19458E+11,8/3/2025 5:43,unknown
+-1,   ,   ,customer231@example.com,9.19056E+11,6/9/2025 0:11,unknown
+233,Customer_232,Customer_232,customer232@example.com,9.18933E+11,5/14/2025 19:06,
+234,Customer_233,Customer_233,customer233@example.com,9.17554E+11,1/22/2025 12:29,unknown
+-1,Customer_234,Customer_234,customer234example.com,9.17968E+11,12/14/2025 13:18,
+236,Customer_235,Customer_235,customer235@example.com,+918178758213!!@#,8/27/2025 14:53,ACTIVE
+237,Customer_236,Customer_236,customer236@example.com,9.17662E+11,10/7/2025 20:47,
+238,Customer_237,Customer_237,,9.17122E+11,10/27/2025 10:26,
+239,Customer_238,Customer_238,customer238@example.com,,7/31/2025 21:09,
+240,Customer_239,Customer_239,customer239@example.com,9.19942E+11,1/29/2025 8:09,Inactive
+241,Customer_240,Customer_240,customer240@example.com,9.18461E+11,12/1/2025 13:37,ACTIVE
+242,Customer_241,Customer_241,customer241@example.com,9.17562E+11,8/7/2025 2:58,
+243,Customer_242!!@#,Customer_242!!@#,customer242@example.com,9.17605E+11,5/30/2025 4:32,ACTIVE
+244,Customer_243,Customer_243,customer243@example.com,9.18406E+11,5/2/2025 10:42,
+245,Customer_244,Customer_244,customer244@example.com,9.18325E+11,6/2/2025 17:16,active
+246,Customer_245,Customer_245,customer245@example.com,9.17217E+11,12/9/2025 15:59,
+247,Customer_246,Customer_246,,9.17462E+11,10/10/2025 12:51,ACTIVE
+248,,,   ,9.19413E+11,23-04-2025,
+249,Customer_248,Customer_248,customer248@example.com,9.19677E+11,2/19/2025 23:13,active
+250,Customer_249,Customer_249,customer249@example.com,9.1857E+11,8/22/2025 23:21,inactive
+251,,,customer250@ex@mple.com,9.1843E+11,6/27/2025 11:26,
+252,Customer_251,Customer_251,customer251@example.com,9.18368E+11,10/15/2025 2:57,
+253,Customer_252,Customer_252,customer252@example.com,9.19104E+11,7/4/2025 10:19,ACTIVE
+,Customer_253,Customer_253,customer253@example.com,9.19507E+11,12/5/2025 16:33,
+255,Customer_254,Customer_254,customer254@example.com,9.19485E+11,1/20/2025 22:39,
+256,Customer_255,Customer_255,customer255@example.com,9.18633E+11,2025-13-01 25:61:00,
+257, Customer_256 , Customer_256 ,,9.18347E+11,9/26/2025 3:55,Inactive
+258,Customer_257,Customer_257,customer257@example.com,9.17267E+11,3/22/2025 12:33,
+259,Customer_258,Customer_258,customer258@example.com,9.17744E+11,5/13/2025 22:43,
+260,Customer_259,Customer_259,customer259@example.com,9.19978E+11,3/16/2025 16:01,Inactive
+261,Customer_260,Customer_260,customer260@example.com,9.18278E+11,3/22/2025 11:58,
+262,Customer_261,Customer_261,customer261@example.com,9.18174E+11,9/20/2025 18:34,
+263,Customer_262,Customer_262,customer262@example.com,9.17629E+11,5/10/2025,ACTIVE
+264,Customer_263,Customer_263,customer263@example.com,9.17919E+11,4/16/2025 7:08,
+265,Customer_264,Customer_264,customer264@example.com,9.1952E+11,9/18/2025 3:18,active
+,Customer_265,Customer_265, customer265@example.com ,9.18419E+11,9/22/2025 13:10,active
+267,Customer_266,Customer_266,customer266@example.com,9.18748E+11,7/5/2025 10:08,Inactive
+268,Customer_267,Customer_267,customer267@example.com,9.17254E+11,9/11/2025 7:51,active
+,Customer_268,Customer_268,customer268@example.com,9.17752E+11,3/10/2025 6:28,unknown
+,Customer_269,Customer_269,customer269@example.com,9.178E+11,12/26/2025 15:18,unknown
+271,Customer_270,Customer_270,customer270@example.com,9.18439E+11,7/30/2025 23:55,
+272,Customer_271,Customer_271,customer271@example.com,9.18172E+11,5/9/2025 10:11,active
+273,Customer_272,Customer_272,customer272@example.com@@domain,9.18448E+11,9/19/2025 21:52,
+274,Customer_273,Customer_273,customer273@example.com,9.18837E+11,6/5/2025 16:02,active
+275,Customer_274,Customer_274,customer274@example.com,,4/2/2025 11:13,Inactive
+INVALID_ID,Customer_275,Customer_275,customer275@example.com,,5/20/2025 15:16,
+999999,Customer_276!!@#,Customer_276!!@#,customer276@example.com,9.18741E+11,10/26/2025 23:26,
+278,Customer_277,Customer_277,customer277@example.com,9.1964E+11,7/5/2025 16:58,inactive
+279,Customer_278,Customer_278,customer278@example.com,9.19359E+11,7/28/2025 18:01,unknown
+280,Customer_279,Customer_279,customer279@example.com,9.19559E+11,7/24/2025 2:04,active
+281,CUSTOMER_280,CUSTOMER_280,customer280@example.com,9.17265E+11,3/20/2025 12:14,
+282,Customer_281,Customer_281,customer281@example.com,9.17499E+11,8/15/2025 11:19,
+283,Customer_282,Customer_282,   ,9.17567E+11,9/12/2026 0:01,Inactive
+-1,Customer_283,Customer_283,customer283@example.com,9.18701E+11,10/17/2025 15:24,active
+285,Customer_284,Customer_284,customer284@example.com,9.19324E+11,12/29/2025 15:25,active
+286,Customer_285,Customer_285,customer285@ex@mple.com,9.19755E+11,6/13/2025 6:03,
+287,Customer_286,Customer_286,customer286@example.com,9.18621E+11,9/15/2025 0:21,
+288,Customer_287,Customer_287,customer287@example.com!!@#,9.19308E+11,10/10/2025 16:07,inactive
+289,Customer_288,Customer_288,customer288@example.com,9.18989E+11,6/14/2025 17:09,
+290,Customer_289,Customer_289,customer289@example.com,9.18184E+11,10/25/2025 6:52,
+291,Customer_290,Customer_290,customer290@example.com,9.17067E+11,2/9/2025 4:25,active
+292,Customer_291,Customer_291,customer291@example.com,9.18051E+11,6/20/2025 11:25,Inactive
+293,Customer_292,Customer_292,   ,9.19164E+11,11/13/2025 19:40,inactive
+294,Customer_293,Customer_293,customer293@example.com,9.18377E+11,9/14/2025 9:37,inactive
+295,Customer_294,Customer_294,customer294@example.com,9.19541E+11,9/1/2025 2:40,inactive
+296,,,customer295@example.com,9.19763E+11,7/23/2025 16:21,unknown
+297,Customer_296,Customer_296,customer296@example.com,9.1931E+11,3/29/2025 12:21,unknown
+298,Customer_297,Customer_297,customer297@example.com,9.19415E+11,8/5/2025 10:17,Inactive
+299,Customer_298,Customer_298,customer298@example.com,9.1734E+11,5/25/2025 2:41,unknown
+300,Customer_299,Customer_299,customer299@example.com,9.19893E+11,6/12/2025,active
+301,Customer_300,Customer_300,customer300@example.com,9.17932E+11,12/19/2025 6:09,unknown
+302,,,customer301@example.com,9.17504E+11,7/5/2025 23:51,unknown
+303,Customer_302,Customer_302,customer302@example.com,9.18028E+11,4/20/2025 22:18,unknown
+304,Customer_303,Customer_303,customer303@example.com,9.19203E+11,2/8/2025 7:05,Inactive
+305,Customer_304,Customer_304,customer304@example.com,9.17872E+11,1/18/2025 18:05,Inactive
+306,Customer_305,Customer_305,customer305@example.com,9.19508E+11,4/25/2025 15:23,Inactive
+307,Customer_306,Customer_306,customer306@example.com,9.19144E+11,5/12/2025 2:19,
+308,Customer_307,Customer_307,customer307@example.com,9.19107E+11,11/5/2025 17:42,
+309,Customer_308,Customer_308,customer308@example.com@@domain,9.19328E+11,2025-13-01 25:61:00,active
+310,Customer_309,Customer_309,customer309@example.com,9.17027E+11,9/2/2025 22:33,unknown
+311,,,customer310@example.com,   ,9/16/2025 22:36,
+312,Customer_311,Customer_311,,9.19286E+11,1/7/2025 11:53,active
+313,Customer_312,Customer_312,,9.19997E+11,12/31/2025 22:44,unknown
+314, Customer_313 , Customer_313 ,customer313@ex@mple.com,9.17824E+11,11/13/2025 14:20,ACTIVE
+315,CUSTOMER_314,CUSTOMER_314,customer314@example.com,9.18971E+11,3/29/2025 17:08,
+316,CUSTOMER_315,CUSTOMER_315,customer315@example.com,9.19791E+11,6/7/2025 9:28,active
+317,   ,   ,,9.17736E+11,6/18/2025 12:19,unknown
+318,Customer_317,Customer_317,customer317@example.com,9.19268E+11,3/24/2025 2:32,inactive
+319,Customer_318,Customer_318,customer318@example.com,9.17319E+11,12/16/2025 6:11,ACTIVE
+320,Customer_319,Customer_319,customer319@example.com,9.17067E+11,2/25/2025 23:57,
+321,Customer_320,Customer_320,CUSTOMER320@EXAMPLE.COM,9.17698E+11,11/21/2025 3:30,
+322,Customer_321,Customer_321,customer321@example.com,9.17601E+11,9/10/2025,
+323,Customer_322,Customer_322, customer322@example.com ,9.17997E+11,8/24/2025 0:34,ACTIVE
+324,Customer_323,Customer_323,customer323@example.com,9.17127E+11,6/24/2025 23:25,unknown
+325,Customer_324,Customer_324,customer324@example.com,9.19919E+11,2/3/2025 6:43,Inactive
+326,Customer_325,Customer_325,CUSTOMER325@EXAMPLE.COM,9.18151E+11,11/1/2025 10:23,
+327,Customer_326,Customer_326, customer326@example.com ,9.17022E+11,5/20/2025 18:40,Inactive
+328,CUSTOMER_327,CUSTOMER_327,customer327@example.com,9.19392E+11,2025-13-01 25:61:00,Inactive
+329, Customer_328 , Customer_328 ,customer328@example.com,9.18393E+11,4/24/2025 8:12,active
+330,Customer_329,Customer_329,customer329@example.com,9.18043E+11,9/24/2025 3:36,inactive
+331,Customer_330,Customer_330,customer330@example.com,9.17272E+11,6/13/2025 12:57,ACTIVE
+332,Customer_331,Customer_331,customer331@example.com,9.19684E+11,3/17/2025 22:38,
+333,,,customer332@example.com,9.19664E+11,5/8/2025 23:33,unknown
+334,Customer_333,Customer_333,customer333@example.com,9.19553E+11,8/23/2025 6:20,ACTIVE
+335,Customer_334,Customer_334,customer334@example.com,9.18371E+11,9/3/2025 19:04,
+336,Customer_335,Customer_335,customer335@example.com,9.18688E+11,3/19/2025 14:16,
+337,Customer_336,Customer_336,customer336@example.com,9.18983E+11,6/20/2025 6:41,inactive
+338,   ,   ,customer337@example.com,9.18757E+11,9/3/2025 23:07,inactive
+339,Customer_338,Customer_338,customer338@example.com,9.18619E+11,7/6/2025 2:47,
+340,Customer_339,Customer_339,customer339@example.com,9.18797E+11,5/20/2025 15:03,unknown
+341,Customer_340,Customer_340,customer340@example.com,9.1747E+11,9/16/2025 3:23,
+342,,,customer341@example.com,9.1991E+11,5/9/2025 18:42,unknown
+343,,,customer342@example.com,9.19193E+11,8/14/2025 10:49,
+,Customer_343,Customer_343,customer343@example.com,9.19919E+11,2/28/2025 13:02,
+345, Customer_344 , Customer_344 ,customer344@example.com,+917368743555!!@#,2/25/2025 0:30,
+346,Customer_345,Customer_345,customer345@example.com,9.18496E+11,10/8/2025 9:28,Inactive
+347,Customer_346,Customer_346,customer346@example.com,,9/9/2025 15:31,ACTIVE
+348,Customer_347,Customer_347,customer347@example.com,9.19216E+11,5/9/2025 13:02,inactive
+349,Customer_348,Customer_348,customer348@example.com,9.17792E+11,6/17/2025 19:47,
+350,Customer_349,Customer_349,customer349@example.com,9.18845E+11,3/25/2025 10:02,
+351,Customer_350,Customer_350,   ,9.17437E+11,3/14/2025 14:35,
+352,Customer_351!!@#,Customer_351!!@#,customer351@example.com,9.19102E+11,5/2/2025 17:08,
+353,Customer_352,Customer_352,customer352@example.com,9.18966E+11,9/19/2025 14:18,unknown
+354,Customer_353,Customer_353,CUSTOMER353@EXAMPLE.COM,9.17575E+11,4/29/2025 14:20,inactive
+355,Customer_354,Customer_354,customer354@example.com,9.19562E+11,6/14/2025 7:00,Inactive
+356,Customer_355,Customer_355,customer355@example.com,9.17744E+11,4/23/2025 4:08,Inactive
+357,Customer_356,Customer_356,   ,9.18542E+11,2/23/2025 0:35,Inactive
+358,Customer_357,Customer_357,customer357@example.com,9.18757E+11,10/3/2025 19:00,Inactive
+359,CUSTOMER_358,CUSTOMER_358,,9.17947E+11,3/29/2025 7:41,ACTIVE
+360,Customer_359,Customer_359,customer359@example.com,9.19127E+11,8/11/2025 10:04,active
+361,Customer_360,Customer_360,customer360@example.com,9.17179E+11,8/1/2025 4:22,Inactive
+362,Customer_361,Customer_361,customer361@example.com,9.18063E+11,6/24/2025 15:48,active
+363,CUSTOMER_362,CUSTOMER_362,customer362@example.com,9.17504E+11,3/23/2025 12:12,inactive
+364,Customer_363,Customer_363,customer363@example.com,9.19718E+11,2/24/2025 1:45,
+365,Customer_364,Customer_364,customer364@example.com,9.19286E+11,3/7/2025 9:23,
+366,Customer_365,Customer_365,customer365@example.com,9.19209E+11,11/13/2025 14:02,
+367,Customer_366,Customer_366,customer366@example.com,9.18191E+11,9/30/2025 9:46,inactive
+368,Customer_367,Customer_367,customer367@example.com,9.19904E+11,8/13/2025 5:59,inactive
+369,Customer_368,Customer_368,CUSTOMER368@EXAMPLE.COM,9.174E+11,4/19/2025 1:15,
+370,Customer_369,Customer_369,customer369@example.com,,11/26/2025 0:10,unknown
+371,Customer_370,Customer_370,customer370@example.com,9.18539E+11,7/27/2025 13:11,unknown
+372,Customer_371,Customer_371,customer371@example.com,9.18387E+11,8/1/2025 13:18,ACTIVE
+373,Customer_372,Customer_372,customer372@example.com,9.19932E+11,2/8/2025 16:06,active
+374,,,customer373@example.com,9.17679E+11,6/16/2025 3:22,active
+375,Customer_374,Customer_374,customer374@example.com,9.17683E+11,2/6/2025 5:59,ACTIVE
+376,Customer_375,Customer_375,customer375@example.com,   ,4/29/2025 15:33,
+377,Customer_376,Customer_376, customer376@example.com ,,1/31/2025 6:26,Inactive
+378,Customer_377,Customer_377,,9.19988E+11,12/1/2025 2:57,active
+379,CUSTOMER_378,CUSTOMER_378,customer378@example.com,9.1744E+11,12/9/2025 3:24,ACTIVE
+,Customer_379,Customer_379,customer379@example.com,9.19756E+11,1/27/2025 13:38,inactive
+381,Customer_380,Customer_380,customer380@example.com,9.17915E+11,12/24/2025 6:02,inactive
+382,Customer_381,Customer_381,CUSTOMER381@EXAMPLE.COM,9.17431E+11,8/17/2025 23:13,active
+383,Customer_382,Customer_382,customer382@example.com,9.18064E+11,4/7/2025 9:05,active
+384,Customer_383,Customer_383,customer383@example.com,,9/13/2025 16:46,unknown
+385,Customer_384,Customer_384,customer384@example.com@@domain,9.18683E+11,11/1/2025 9:33,active
+,Customer_385,Customer_385,customer385@example.com!!@#,9.19146E+11,7/25/2025 3:59,active
+387,Customer_386,Customer_386,customer386@example.com,9.18661E+11,6/13/2025 10:43,
+,Customer_387,Customer_387,customer387@example.com,,1/6/2025 8:33,active
+389,   ,   ,customer388@example.com,9.19176E+11,7/14/2025 14:06,
+390,Customer_389,Customer_389,customer389@example.com,9.19309E+11,2/2/2025 11:10,ACTIVE
+391,Customer_390,Customer_390,customer390@example.com,9.19304E+11,9/4/2025 8:03,
+-1,Customer_391,Customer_391,customer391@example.com,9.18879E+11,5/8/2026 16:15,unknown
+393,Customer_392,Customer_392,customer392@example.com,   ,10/16/2025 1:05,
+394,,,customer393@ex@mple.com,9.17049E+11,7/23/2025 2:45,ACTIVE
+395,Customer_394,Customer_394,customer394@example.com,9.18154E+11,10/27/2025 14:15,active
+396,Customer_395,Customer_395,customer395@example.com,9.18129E+11,1/9/2025,
+397,Customer_396,Customer_396,customer396@example.com,9.19435E+11,4/10/2025 1:51,inactive
+,Customer_397,Customer_397,customer397@example.com!!@#,,,unknown
+399,Customer_398,Customer_398,customer398@example.com,9.17769E+11,1/14/2025 17:36,unknown
+-1,Customer_399,Customer_399,customer399@example.com,9.18382E+11,5/5/2025 6:00,
+401,Customer_400,Customer_400,customer400@example.com,9.17226E+11,7/20/2025 7:21,unknown
+402,   ,   ,customer401@example.com,9.18212E+11,5/8/2025 2:39,ACTIVE
+403,Customer_402,Customer_402,customer402@example.com,9.18305E+11,6/30/2025 4:06,inactive
+404,Customer_403,Customer_403,customer403@example.com,9.19347E+11,,inactive
+405,Customer_404,Customer_404,customer404@example.com,9.19978E+11,1/1/2025 13:37,ACTIVE
+INVALID_ID,Customer_405,Customer_405,customer405@example.com,9.17881E+11,6/13/2025 0:58,inactive
+407,Customer_406,Customer_406,customer406@example.com,,12/15/2025 11:19,inactive
+408,Customer_407,Customer_407,customer407@example.com,9.17365E+11,2/21/2025 20:26,
+409,Customer_408,Customer_408,   ,9.19845E+11,4/24/2025 6:37,inactive
+410,Customer_409,Customer_409,customer409@example.com,9.18401E+11,1/4/2025,ACTIVE
+999999,Customer_410,Customer_410,customer410@example.com,9.17667E+11,6/30/2025 23:56,Inactive
+412,Customer_411,Customer_411,customer411@example.com,9.18941E+11,11/28/2025 1:42,ACTIVE
+413,Customer_412,Customer_412,customer412@example.com,9.19993E+11,11/21/2025 15:23,inactive
+414,Customer_413,Customer_413,customer413@example.com,9.18702E+11,4/27/2025 1:23,
+415,,,customer414@example.com,9.18942E+11,4/8/2025 0:47,
+416,Customer_415,Customer_415,customer415@example.com!!@#,9.17265E+11,2/20/2025 18:21,inactive
+,Customer_416,Customer_416,customer416@example.com,9.17361E+11,12/23/2025 7:03,ACTIVE
+418,   ,   ,customer417@example.com,9.18905E+11,12/18/2025 11:56,active
+419,Customer_418!!@#,Customer_418!!@#,customer418@example.com,9.17217E+11,6/18/2025 5:18,
+420,,,customer419@example.com,9.17742E+11,4/17/2025 19:00,inactive
+421,,,customer420@example.com,9.18056E+11,6/10/2025 0:02,Inactive
+422,CUSTOMER_421,CUSTOMER_421,customer421@example.com,9.18801E+11,7/24/2025 4:56,unknown
+423,Customer_422,Customer_422,,9.18643E+11,7/6/2025 6:58,ACTIVE
+,Customer_423,Customer_423,customer423@example.com,9.18668E+11,5/4/2025 20:09,active
+425,Customer_424,Customer_424,customer424@example.com,9.19026E+11,8/15/2025 19:10,unknown
+426, Customer_425 , Customer_425 ,customer425@example.com,9.18145E+11,12/23/2025 5:28,unknown
+427,Customer_426,Customer_426,customer426@example.com,9.18668E+11,11/25/2025 6:01,unknown
+428,Customer_427,Customer_427,customer427@example.com,9.18541E+11,10/1/2025 4:39,active
+429,Customer_428,Customer_428,customer428@example.com,9.17808E+11,12/9/2025 9:21,unknown
+,Customer_429,Customer_429,,9.17241E+11,1/8/2025 17:44,inactive
+431,Customer_430,Customer_430,customer430@example.com,9.1756E+11,12/23/2025 19:39,inactive
+432,   ,   ,customer431@ex@mple.com,9.17608E+11,7/24/2025 9:25,unknown
+433,Customer_432,Customer_432,customer432@example.com,9.18699E+11,4/28/2025 4:39,ACTIVE
+434,Customer_433,Customer_433,customer433@example.com,9.19746E+11,5/4/2025 5:17,
+435,Customer_434,Customer_434,customer434@example.com,9.18533E+11,11/13/2025 7:15,
+436,Customer_435,Customer_435,customer435@example.com!!@#,9.17008E+11,6/2/2025 1:59,
+437,Customer_436,Customer_436,customer436@example.com@@domain,9.18367E+11,3/27/2025 18:53,
+438,Customer_437,Customer_437,customer437@example.com,9.17334E+11,3/7/2025 4:49,ACTIVE
+INVALID_ID,Customer_438,Customer_438,customer438@example.com,9.18442E+11,3/23/2025 10:23,ACTIVE
+440,Customer_439,Customer_439, customer439@example.com ,,10/12/2025 12:10,Inactive
+441,Customer_440,Customer_440,customer440@example.com,9.18509E+11,11/18/2025 21:02,active
+,Customer_441,Customer_441,customer441@example.com,9.17699E+11,2025-13-01 25:61:00,unknown
+443,Customer_442,Customer_442, customer442@example.com ,9.18468E+11,3/4/2025 11:44,Inactive
+444,Customer_443,Customer_443, customer443@example.com ,9.19551E+11,2025-13-01 25:61:00,Inactive
+445,Customer_444,Customer_444,customer444@example.com,   ,3/21/2025 19:52,ACTIVE
+,Customer_445,Customer_445,customer445@example.com,9.1932E+11,4/26/2025 11:58,ACTIVE
+447,Customer_446,Customer_446,customer446@example.com,   ,6/16/2025 1:34,active
+-1,Customer_447,Customer_447,customer447@example.com,,9/5/2025 20:22,inactive
+449,Customer_448,Customer_448,customer448@example.com,9.18707E+11,4/13/2025 22:01,
+450,Customer_449,Customer_449,customer449@example.com,9.18587E+11,4/13/2025 6:05,active
+451,Customer_450,Customer_450,customer450@example.com,9.17649E+11,2/7/2025 13:20,
+452,Customer_451,Customer_451,customer451@example.com,9.19533E+11,11/23/2025 12:47,active
+453,Customer_452,Customer_452,customer452@example.com,9.19039E+11,7/4/2025 23:05,inactive
+454,Customer_453,Customer_453,,9.19453E+11,8/10/2025 22:37,unknown
+999999,Customer_454!!@#,Customer_454!!@#,customer454@example.com,9.17743E+11,3/24/2025 6:57,inactive
+456,Customer_455,Customer_455,customer455@example.com,9.1887E+11,9/1/2025 14:10,unknown
+457,Customer_456,Customer_456,customer456@example.com,9.17288E+11,6/4/2025 7:37,
+458,Customer_457,Customer_457,customer457@example.com,9.17053E+11,8/17/2025 4:36,
+459,Customer_458,Customer_458,customer458@ex@mple.com,9.19525E+11,12/26/2025 4:57,active
+460,Customer_459,Customer_459,customer459@example.com,9.18477E+11,5/29/2025 18:13,ACTIVE
+,Customer_460,Customer_460,customer460@example.com@@domain,9.18731E+11,9/22/2025 9:38,
+462,Customer_461,Customer_461,customer461@example.com,,12/24/2025 14:48,Inactive
+463,Customer_462,Customer_462,customer462@example.com,9.18336E+11,11/30/2025 7:19,Inactive
+464,Customer_463,Customer_463,customer463@ex@mple.com,9.18903E+11,4/15/2025 15:10,ACTIVE
+465,CUSTOMER_464,CUSTOMER_464,customer464@example.com,9.18749E+11,7/20/2025 14:08,unknown
+466,Customer_465,Customer_465,customer465example.com,9.18336E+11,2/22/2025 16:20,Inactive
+467,Customer_466,Customer_466,customer466@example.com@@domain,9.17862E+11,1/13/2025 20:14,inactive
+,Customer_467,Customer_467,customer467@example.com,9.18994E+11,12/25/2025 11:40,
+469,Customer_468,Customer_468,customer468@example.com,9.17763E+11,8/16/2025 22:07,Inactive
+470,Customer_469,Customer_469,customer469@example.com,9.19959E+11,7/5/2026 3:03,active
+471,Customer_470,Customer_470,customer470@example.com,9.17951E+11,3/22/2025 6:52,
+472,,,customer471@example.com,,9/9/2025 9:56,inactive
+473,Customer_472,Customer_472,customer472@example.com,9.18312E+11,9/7/2025 14:46,
+474,Customer_473,Customer_473,customer473@example.com,9.17937E+11,7/22/2025 4:41,
+475, Customer_474 , Customer_474 ,customer474@example.com,9.19845E+11,5/26/2025 8:04,unknown
+476,Customer_475,Customer_475,customer475@example.com,   ,9/6/2025 18:46,ACTIVE
+477,Customer_476,Customer_476,customer476@example.com,9.19798E+11,7/20/2025 21:31,inactive
+,Customer_477,Customer_477,customer477@example.com,9.19577E+11,9/22/2025 9:06,ACTIVE
+479,Customer_478,Customer_478,customer478@example.com,9.18798E+11,1/14/2025 17:11,
+480,Customer_479,Customer_479,customer479@example.com,9.17955E+11,11/1/2025 19:46,
+481,Customer_480,Customer_480,customer480@example.com,9.1773E+11,3/12/2025 8:18,
+482,Customer_481,Customer_481,customer481@example.com,9.19401E+11,9/21/2025 23:22,inactive
+483,Customer_482,Customer_482,customer482@example.com,9.18319E+11,5/25/2025 8:19,ACTIVE
+484,Customer_483,Customer_483,customer483@example.com,9.19725E+11,1/28/2025 15:46,
+485,Customer_484!!@#,Customer_484!!@#,customer484@example.com,9.19276E+11,12/5/2025 4:54,active
+486,Customer_485,Customer_485,customer485@example.com,9.19446E+11,2/25/2025 14:56,Inactive
+487,Customer_486,Customer_486,customer486@example.com,9.1971E+11,10/9/2026 9:57,ACTIVE
+-1,Customer_487,Customer_487,customer487@example.com,9.19475E+11,11/1/2025 22:41,Inactive
+489,Customer_488,Customer_488,customer488@example.com,9.18733E+11,,Inactive
+,Customer_489,Customer_489,customer489@example.com,9.18384E+11,,
+491,Customer_490,Customer_490,customer490@example.com,9.18479E+11,5/29/2025 22:56,active
+492,   ,   ,,9.18249E+11,8/20/2025 14:34,
+493,Customer_492,Customer_492,customer492@ex@mple.com,9.19105E+11,3/6/2025 0:49,inactive
+999999,Customer_493,Customer_493,customer493@example.com,9.17564E+11,8/18/2025 0:20,active
+,Customer_494,Customer_494,customer494@example.com,9.18611E+11,10/27/2025 12:34,ACTIVE
+496,Customer_495,Customer_495,customer495@example.com,9.19807E+11,9/25/2025 20:56,active
+497,Customer_496!!@#,Customer_496!!@#,customer496@example.com,9.17658E+11,,
+498, Customer_497 , Customer_497 ,customer497@example.com,9.19675E+11,6/12/2025 15:44,inactive
+499,Customer_498,Customer_498,customer498@example.com!!@#,9.1749E+11,3/19/2025 3:31,Inactive
+500,Customer_499,Customer_499,customer499@example.com,9.18537E+11,2025-13-01 25:61:00,ACTIVE
+999999,Customer_500,Customer_500,customer500@example.com,9.1842E+11,9/18/2025 20:04,active
+502,Customer_501,Customer_501,customer501@example.com,9.17387E+11,10/9/2025 0:06,active
+503,Customer_502,Customer_502,customer502@example.com,9.18271E+11,2/8/2025 18:17,active
+504,Customer_503,Customer_503,customer503@example.com,9.19907E+11,2/15/2025 0:16,
+505,,,customer504@example.com,9.19849E+11,5/19/2025 20:23,ACTIVE
+506,Customer_505,Customer_505,customer505@example.com,9.186E+11,2/14/2025 4:59,inactive
+999999,Customer_506,Customer_506,customer506@example.com,9.19054E+11,12/11/2025 3:16,
+508,Customer_507,Customer_507,   ,9.17685E+11,7/7/2025 10:51,
+509,Customer_508,Customer_508,customer508@example.com,9.1854E+11,9/23/2025 19:40,unknown
+510,Customer_509,Customer_509,customer509@example.com,+919096471391!!@#,7/26/2026 3:30,Inactive
+511,Customer_510,Customer_510,customer510@example.com,9.19912E+11,8/12/2025 22:45,
+512,Customer_511,Customer_511,customer511@example.com,9.1923E+11,8/29/2025 2:24,
+513,Customer_512,Customer_512,customer512@example.com,9.19905E+11,11/22/2025 20:21,inactive
+514,Customer_513,Customer_513,,9.17674E+11,11/27/2025 20:00,Inactive
+515,Customer_514,Customer_514,customer514@example.com,9.18421E+11,7/16/2025 20:55,active
+516,Customer_515,Customer_515,customer515@example.com,9.18972E+11,6/24/2025 0:34,
+517,Customer_516,Customer_516,customer516@example.com,,2025-13-01 25:61:00,Inactive
+518,Customer_517,Customer_517,customer517@example.com,9.19659E+11,8/7/2025 9:19,
+519,Customer_518,Customer_518,customer518@example.com,9.17233E+11,6/26/2025 11:52,unknown
+520,Customer_519,Customer_519,customer519@example.com,9.1856E+11,2/7/2025 20:10,active
+521,Customer_520,Customer_520,customer520@example.com,9.18254E+11,9/30/2025 16:00,ACTIVE
+522,Customer_521,Customer_521,customer521@example.com,9.18758E+11,3/18/2025 2:07,
+523,Customer_522,Customer_522,customer522@example.com,9.17819E+11,10/22/2025 1:08,active
+524,Customer_523,Customer_523,customer523@example.com,9.18935E+11,7/15/2025 19:27,
+525,Customer_524,Customer_524,,9.18859E+11,12/25/2025 23:45,Inactive
+526,Customer_525,Customer_525,customer525@example.com,9.17551E+11,8/22/2025 5:29,
+527,Customer_526,Customer_526,customer526@example.com,9.19616E+11,4/7/2025 9:45,unknown
+528,Customer_527,Customer_527,customer527@example.com,9.17573E+11,9/29/2025 20:36,
+529,Customer_528,Customer_528,customer528@example.com,9.18348E+11,9/3/2025 16:06,
+530,Customer_529,Customer_529,customer529@example.com,9.19888E+11,9/10/2025 11:14,
+531,Customer_530,Customer_530,customer530@example.com,9.17496E+11,7/6/2025 13:22,
+532,Customer_531,Customer_531,customer531@example.com,9.19293E+11,6/14/2025 0:55,unknown
+533,,,customer532@ex@mple.com,   ,10/19/2025 8:13,ACTIVE
+,Customer_533,Customer_533,customer533@ex@mple.com,9.17266E+11,3/21/2025 5:25,ACTIVE
+535,Customer_534,Customer_534, customer534@example.com ,9.19901E+11,3/29/2025 2:41,unknown
+536,Customer_535,Customer_535,customer535@example.com,9.1999E+11,1/19/2025 5:53,
+537,Customer_536,Customer_536,customer536@example.com,9.18343E+11,1/6/2025 0:50,active
+538,Customer_537,Customer_537,customer537@example.com,9.18903E+11,10/1/2025 15:37,
+539,Customer_538,Customer_538,customer538@example.com,9.17844E+11,4/25/2025 5:56,inactive
+540,CUSTOMER_539,CUSTOMER_539,customer539@example.com,+919206955437!!@#,6/16/2025 9:58,active
+541,Customer_540,Customer_540,customer540@example.com,9.17024E+11,12/31/2025 2:04,
+542,Customer_541,Customer_541,   ,9.19686E+11,4/27/2025 22:57,
+543,Customer_542,Customer_542,customer542@example.com,9.18365E+11,22-07-2025,inactive
+544,Customer_543,Customer_543,customer543@example.com,9.17395E+11,9/15/2025 14:43,inactive
+545,Customer_544,Customer_544,customer544@example.com,9.19278E+11,11/16/2025 21:19,
+546,Customer_545!!@#,Customer_545!!@#,customer545@example.com,9.18032E+11,12/23/2025 18:02,
+547,Customer_546,Customer_546,customer546@example.com,9.17487E+11,10/9/2025 3:56,
+548,Customer_547,Customer_547,customer547@example.com,9.19185E+11,4/26/2025 2:57,active
+549,Customer_548,Customer_548,customer548@example.com,9.17719E+11,7/28/2025 22:17,unknown
+550,Customer_549,Customer_549,customer549@example.com,9.17916E+11,11/21/2025 12:57,Inactive
+,Customer_550,Customer_550,customer550@example.com,9.18869E+11,10/18/2025 1:31,active
+552,Customer_551,Customer_551,,   ,4/8/2025 19:57,unknown
+553,Customer_552,Customer_552,customer552@example.com,9.18667E+11,6/18/2025 4:05,Inactive
+554,Customer_553!!@#,Customer_553!!@#,,   ,9/20/2026 10:15,
+555,Customer_554,Customer_554,customer554@example.com,9.18245E+11,8/24/2025 13:36,ACTIVE
+556,Customer_555,Customer_555,customer555@example.com,,7/27/2025 4:16,inactive
+557,Customer_556,Customer_556,customer556@example.com,9.18267E+11,4/26/2025 18:05,inactive
+558,Customer_557,Customer_557,customer557@example.com,9.18603E+11,8/3/2025 23:13,active
+559,,,customer558@example.com,9.18693E+11,4/29/2025 7:55,active
+560,Customer_559,Customer_559,customer559@example.com,9.19774E+11,3/4/2025 12:12,inactive
+561,Customer_560,Customer_560,customer560@example.com!!@#,9.19882E+11,1/22/2025 2:56,unknown
+562,Customer_561,Customer_561,customer561@example.com,9.19361E+11,1/27/2025 3:51,
+563,Customer_562,Customer_562,customer562@example.com,+918533897596!!@#,4/2/2025 2:00,
+564,Customer_563,Customer_563,customer563@example.com,9.18936E+11,4/29/2025 17:06,
+565,Customer_564,Customer_564,customer564@example.com,9.1884E+11,4/6/2025 14:31,ACTIVE
+566,Customer_565,Customer_565,customer565@example.com,9.18544E+11,5/9/2025 18:23,
+567,Customer_566,Customer_566,customer566@example.com,9.19369E+11,8/24/2025 14:10,
+568,Customer_567,Customer_567,customer567@example.com,9.17844E+11,1/30/2025 16:40,
+,Customer_568,Customer_568,customer568@example.com,9.19499E+11,8/18/2025 3:32,unknown
+570,Customer_569,Customer_569,customer569@example.com,9.19318E+11,2/27/2025 17:21,unknown
+571,Customer_570,Customer_570,customer570@example.com,9.1825E+11,7/18/2025 5:23,
+572,,,customer571@example.com,9.19637E+11,7/19/2025 16:06,unknown
+573,Customer_572,Customer_572,customer572@example.com,9.17628E+11,12/31/2025 17:44,Inactive
+574,Customer_573,Customer_573,   ,9.18587E+11,3/22/2025 7:16,
+575,Customer_574,Customer_574,customer574@example.com,,5/6/2025 20:33,
+576,Customer_575,Customer_575,customer575@example.com,9.18131E+11,3/9/2025 12:23,
+577,Customer_576,Customer_576,customer576@example.com,9.17334E+11,12/19/2025 8:06,Inactive
+578,Customer_577,Customer_577,customer577@example.com,9.19071E+11,7/14/2025 21:27,active
+579,Customer_578,Customer_578,customer578@example.com,9.18206E+11,3/3/2025 2:40,inactive
+580,Customer_579!!@#,Customer_579!!@#,customer579@example.com,9.18418E+11,9/20/2025 5:35,Inactive
+581,Customer_580,Customer_580,customer580@example.com,9.17096E+11,8/11/2025 17:16,inactive
+582,Customer_581,Customer_581,customer581@example.com,   ,12/25/2025 5:49,ACTIVE
+583,Customer_582,Customer_582,customer582@example.com,9.1708E+11,9/14/2025 23:54,
+584,Customer_583,Customer_583,customer583@example.com,9.19025E+11,3/27/2025 4:37,inactive
+585,Customer_584,Customer_584,customer584@example.com,9.17781E+11,4/13/2025 17:30,
+586,Customer_585,Customer_585,customer585@example.com,9.17296E+11,2/21/2025 8:18,Inactive
+587,Customer_586,Customer_586,customer586@example.com,9.18803E+11,2/7/2025 9:34,
+588,Customer_587,Customer_587,customer587@example.com,9.19282E+11,2/6/2025 4:35,active
+,Customer_588,Customer_588,customer588@example.com,9.19914E+11,6/13/2025 9:03,
+590,Customer_589,Customer_589,customer589@example.com,9.19071E+11,5/17/2025 3:03,Inactive
+591,Customer_590,Customer_590,customer590@example.com,9.1742E+11,7/5/2025 7:16,ACTIVE
+592,CUSTOMER_591,CUSTOMER_591,customer591@example.com,9.19335E+11,1/3/2025 2:58,inactive
+593,Customer_592,Customer_592,customer592@example.com!!@#,9.17031E+11,9/25/2025 2:27,inactive
+594, Customer_593 , Customer_593 ,customer593@example.com,9.19514E+11,7/28/2025 4:51,unknown
+595,Customer_594,Customer_594,customer594@example.com,9.17875E+11,8/5/2025 12:51,unknown
+596,Customer_595,Customer_595,customer595@example.com,9.18317E+11,10/1/2025 23:41,unknown
+597,Customer_596,Customer_596,customer596@example.com!!@#,9.17987E+11,3/4/2025 20:02,
+598,Customer_597,Customer_597,customer597@example.com,9.19637E+11,1/21/2025 5:10,
+599,,, customer598@example.com ,9.17624E+11,6/19/2025 2:00,
+600,Customer_599,Customer_599,customer599@example.com,9.18651E+11,8/27/2025 10:34,Inactive
+601,Customer_600,Customer_600,   ,9.17753E+11,1/5/2025 3:49,Inactive
+602,Customer_601,Customer_601,customer601@example.com,9.17144E+11,7/20/2025 7:43,
+603,Customer_602,Customer_602,customer602@example.com,,2/3/2025 17:26,inactive
+604,Customer_603,Customer_603,customer603@example.com,9.19517E+11,10/14/2025 4:38,active
+605,Customer_604,Customer_604,customer604@example.com,9.19401E+11,5/15/2025 22:42,ACTIVE
+606,Customer_605,Customer_605,customer605@example.com,9.18735E+11,3/9/2025 23:26,ACTIVE
+607,CUSTOMER_606,CUSTOMER_606,customer606@example.com,9.17503E+11,12/7/2025 5:57,ACTIVE
+608,Customer_607,Customer_607,customer607@example.com,9.1862E+11,4/5/2025 11:28,unknown
+609,Customer_608,Customer_608,customer608@example.com,9.1952E+11,2/15/2025 3:41,Inactive
+,Customer_609,Customer_609,customer609@example.com,9.17988E+11,5/18/2025 3:05,Inactive
+611,Customer_610,Customer_610,customer610@example.com,9.17399E+11,11/15/2025 20:58,
+612,Customer_611,Customer_611,customer611@example.com,9.17939E+11,3/12/2025 23:40,ACTIVE
+613,Customer_612,Customer_612,customer612@example.com,9.17858E+11,12/5/2025 22:32,inactive
+614,Customer_613,Customer_613,customer613@example.com,9.18529E+11,2/16/2025 13:20,active
+615,Customer_614,Customer_614,customer614@example.com,9.19326E+11,7/7/2025 7:17,unknown
+616,Customer_615,Customer_615,customer615@example.com,9.19468E+11,3/13/2025 0:29,Inactive
+617,Customer_616,Customer_616,customer616@example.com,+919476758136!!@#,11/7/2025 9:44,
+618,,,customer617@example.com,9.19948E+11,2/16/2025 17:54,Inactive
+619,Customer_618,Customer_618,,9.17905E+11,5/7/2025 9:17,active
+620,Customer_619,Customer_619,customer619@example.com,9.18157E+11,5/14/2025 5:53,
+621,Customer_620,Customer_620,customer620@example.com,9.18599E+11,4/19/2025 14:20,Inactive
+622,Customer_621,Customer_621,customer621@example.com,9.17429E+11,4/2/2025 13:51,unknown
+623,Customer_622,Customer_622,customer622@example.com,9.17642E+11,3/10/2025 14:05,active
+624,Customer_623,Customer_623,customer623@example.com,9.19293E+11,7/8/2025 23:37,unknown
+625,Customer_624,Customer_624,customer624@example.com,9.19966E+11,11/13/2025 1:20,inactive
+626, Customer_625 , Customer_625 ,customer625@example.com,9.18116E+11,8/5/2025 12:11,
+627,,,customer626@example.com!!@#,9.19919E+11,8/13/2025 0:40,inactive
+628,Customer_627,Customer_627,customer627@example.com,9.18525E+11,7/9/2025 7:46,
+629,CUSTOMER_628,CUSTOMER_628,customer628@example.com,9.18992E+11,12/4/2025 4:44,inactive
+630,Customer_629,Customer_629,customer629@example.com,9.19455E+11,1/31/2025 17:22,active
+631,Customer_630,Customer_630,customer630@example.com,9.18149E+11,4/16/2025 8:12,Inactive
+,Customer_631,Customer_631,customer631@example.com,9.19237E+11,3/6/2025 23:31,Inactive
+633,Customer_632,Customer_632,customer632@example.com,9.17344E+11,2/10/2025 0:06,Inactive
+634,Customer_633,Customer_633,   ,9.18705E+11,2/10/2025 8:40,active
+999999,Customer_634,Customer_634,customer634@example.com,9.18329E+11,4/21/2025 8:42,
+636,Customer_635,Customer_635,customer635@example.com@@domain,9.17151E+11,12/22/2025 10:57,unknown
+637,Customer_636,Customer_636,customer636@example.com,9.1817E+11,9/28/2025 22:18,inactive
+638,Customer_637,Customer_637,customer637@example.com,9.19422E+11,9/6/2025 8:50,
+639,Customer_638,Customer_638,customer638@example.com,9.17385E+11,6/10/2025 2:01,ACTIVE
+640,,,customer639@example.com,9.17585E+11,,Inactive
+641,Customer_640,Customer_640,customer640@example.com,9.17039E+11,4/24/2025 18:14,unknown
+642,Customer_641,Customer_641,customer641@example.com@@domain,9.19408E+11,3/5/2025 9:46,inactive
+643,Customer_642,Customer_642,customer642@example.com,9.1734E+11,7/20/2025 15:09,inactive
+644,Customer_643,Customer_643,customer643@example.com,9.18223E+11,11/11/2025 2:38,
+645,   ,   ,customer644@ex@mple.com,9.17474E+11,6/25/2025 20:05,
+646,Customer_645,Customer_645,,9.17213E+11,3/14/2025 5:03,active
+647,Customer_646!!@#,Customer_646!!@#,customer646@example.com,9.17035E+11,1/6/2025 17:14,inactive
+648,Customer_647,Customer_647,customer647@example.com,9.18595E+11,1/13/2025 7:48,unknown
+649,Customer_648,Customer_648,   ,9.18685E+11,3/12/2025 12:40,Inactive
+650,Customer_649,Customer_649,customer649@example.com,9.17524E+11,4/7/2025 16:29,
+651,Customer_650,Customer_650,customer650@example.com,9.17855E+11,2/6/2025 11:46,unknown
+652,Customer_651,Customer_651,customer651@example.com,9.1834E+11,9/2/2025 8:14,inactive
+653,Customer_652,Customer_652,customer652@example.com!!@#,9.19067E+11,5/20/2025 23:25,inactive
+654,Customer_653,Customer_653,customer653@example.com!!@#,9.19718E+11,3/6/2025 23:54,active
+655,Customer_654,Customer_654,customer654@example.com,9.1718E+11,7/4/2025 13:50,
+656,Customer_655,Customer_655,customer655@example.com,9.19147E+11,5/12/2025 10:19,
+657,Customer_656,Customer_656,   ,9.19768E+11,11/4/2025 9:00,
+658,Customer_657,Customer_657,customer657@example.com,9.19769E+11,12/13/2025 8:08,unknown
+659,Customer_658,Customer_658,customer658@example.com,9.17579E+11,7/8/2025 11:20,active
+660,Customer_659,Customer_659,customer659@example.com,9.19434E+11,5/6/2025 16:55,ACTIVE
+661,Customer_660,Customer_660,customer660@example.com,9.19382E+11,3/2/2025 4:56,
+662,Customer_661,Customer_661,customer661@example.com,9.1974E+11,3/14/2025 1:18,
+663,Customer_662,Customer_662,customer662@example.com,9.18377E+11,7/29/2025 7:26,
+999999,Customer_663,Customer_663,customer663@example.com,9.17662E+11,6/9/2025 3:39,ACTIVE
+665,Customer_664,Customer_664,   ,9.17557E+11,3/20/2025 11:30,active
+666,,,customer665@example.com,9.18669E+11,8/31/2025 7:49,
+667,Customer_666,Customer_666,customer666@example.com,,9/12/2025 16:01,inactive
+668,CUSTOMER_667,CUSTOMER_667,customer667@example.com,9.17261E+11,12/31/2025 9:03,
+669,Customer_668,Customer_668,   ,9.1965E+11,13-10-2025,active
+670,Customer_669,Customer_669,customer669@example.com,9.17417E+11,7/26/2025 11:26,inactive
+671,Customer_670,Customer_670,customer670@example.com,9.17768E+11,6/11/2025 5:48,
+672,Customer_671,Customer_671,customer671@example.com,9.19857E+11,3/6/2025 18:46,active
+673,Customer_672,Customer_672,customer672@example.com,9.19293E+11,12/29/2025 13:02,Inactive
+674,Customer_673,Customer_673,customer673@example.com,9.18597E+11,6/17/2025 5:22,
+675,Customer_674,Customer_674,customer674@example.com,9.18611E+11,4/9/2025 16:16,
+676,Customer_675,Customer_675,,9.17149E+11,1/7/2025 7:56,
+677,Customer_676,Customer_676,customer676@example.com,9.17953E+11,1/9/2025 10:16,ACTIVE
+678,Customer_677,Customer_677,customer677@example.com,9.19196E+11,3/2/2025 2:02,
+679,Customer_678,Customer_678,customer678@example.com,9.195E+11,11/11/2025 23:45,ACTIVE
+680,Customer_679,Customer_679,customer679@example.com,9.17332E+11,7/7/2025 9:32,unknown
+681,Customer_680,Customer_680,customer680@example.com,9.1741E+11,1/15/2025 12:19,ACTIVE
+682,CUSTOMER_681,CUSTOMER_681,   ,9.18436E+11,6/18/2025 16:00,unknown
+683,Customer_682,Customer_682,customer682@example.com,9.19804E+11,9/4/2025 4:15,active
+684,Customer_683,Customer_683,,9.19319E+11,7/15/2025 2:43,ACTIVE
+685,Customer_684,Customer_684,customer684@example.com,9.18914E+11,7/16/2025 0:25,
+686,Customer_685,Customer_685,customer685@ex@mple.com,9.18444E+11,11/21/2026 10:50,
+687,CUSTOMER_686,CUSTOMER_686,customer686@example.com,9.19997E+11,7/6/2025 18:31,inactive
+688,Customer_687,Customer_687,customer687@example.com,9.19646E+11,4/6/2025 15:10,
+689,Customer_688,Customer_688,customer688@example.com,9.19474E+11,6/10/2025 14:51,
+690,Customer_689,Customer_689,customer689@example.com,9.17104E+11,5/16/2025 19:35,inactive
+691,Customer_690,Customer_690,customer690@ex@mple.com,9.17193E+11,3/19/2025 13:12,inactive
+692,Customer_691,Customer_691,CUSTOMER691@EXAMPLE.COM,9.17234E+11,12/26/2025 21:44,
+693,Customer_692,Customer_692,customer692@example.com,9.17478E+11,1/9/2025 20:01,Inactive
+694,Customer_693,Customer_693,customer693@example.com,9.18111E+11,10/11/2025 11:22,
+695,Customer_694,Customer_694,customer694@example.com,9.1985E+11,8/3/2025,ACTIVE
+696,Customer_695,Customer_695,customer695@example.com,9.18997E+11,1/26/2025 20:44,active
+697,Customer_696,Customer_696,customer696@example.com,,12/10/2025 1:54,unknown
+-1,Customer_697,Customer_697,customer697@example.com,9.17428E+11,12/3/2025 14:54,Inactive
+699,Customer_698,Customer_698,customer698@example.com,9.19408E+11,1/16/2025 10:31,active
+700,Customer_699,Customer_699,customer699@example.com,,5/17/2025 16:04,
+701,Customer_700,Customer_700,customer700@example.com,9.18185E+11,4/11/2025 1:44,
+702,Customer_701,Customer_701,,9.19383E+11,2/28/2025 22:01,inactive
+703,Customer_702,Customer_702,customer702@example.com,9.19236E+11,12/5/2025 22:10,
+704,Customer_703,Customer_703,customer703example.com,9.18342E+11,6/24/2025 10:33,ACTIVE
+705,Customer_704,Customer_704,customer704@example.com,9.17869E+11,9/25/2025 9:35,ACTIVE
+INVALID_ID,Customer_705,Customer_705,customer705@example.com,9.17623E+11,12/23/2025 4:06,
+707,Customer_706,Customer_706,customer706@example.com,9.17791E+11,2025-13-01 25:61:00,inactive
+708,Customer_707,Customer_707,customer707@example.com,9.18303E+11,12/14/2025 5:53,unknown
+709,Customer_708,Customer_708,customer708@example.com@@domain,9.17565E+11,8/26/2025 16:04,unknown
+710,Customer_709,Customer_709,customer709@example.com,9.17992E+11,1/31/2025 20:45,ACTIVE
+711,Customer_710,Customer_710,customer710@example.com,9.1979E+11,5/31/2025 11:23,unknown
+712,Customer_711,Customer_711,,9.17064E+11,3/28/2025 10:21,Inactive
+713,Customer_712,Customer_712,   ,9.18887E+11,9/25/2025 3:20,Inactive
+714,Customer_713,Customer_713,customer713@example.com,9.1718E+11,5/28/2025 17:20,unknown
+715,Customer_714,Customer_714,customer714@example.com,9.19303E+11,2025-13-01 25:61:00,
+716,Customer_715,Customer_715,customer715@example.com,9.18055E+11,2025-13-01 25:61:00,Inactive
+717,Customer_716,Customer_716,customer716@example.com,9.17815E+11,12/10/2025 11:10,Inactive
+718,Customer_717,Customer_717,customer717@example.com,9.19633E+11,7/20/2025 18:30,
+719,Customer_718,Customer_718, customer718@example.com ,+919150308852!!@#,8/16/2025 8:46,unknown
+720,Customer_719,Customer_719,customer719@example.com,,8/18/2025 6:08,Inactive
+721,Customer_720,Customer_720, customer720@example.com ,9.18392E+11,11/6/2025 7:47,
+722, Customer_721 , Customer_721 ,customer721@example.com,9.19723E+11,10/2/2025 16:19,
+723,Customer_722,Customer_722,customer722@example.com,9.18626E+11,10/26/2025 8:42,active
+724,Customer_723,Customer_723,customer723@example.com,9.17696E+11,10/26/2025 17:03,inactive
+725,Customer_724,Customer_724,customer724@example.com,9.18917E+11,2/15/2025 15:40,inactive
+,,,customer725@example.com,9.17052E+11,7/13/2025 15:40,unknown
+727,Customer_726,Customer_726,customer726@example.com,9.19529E+11,6/9/2025 6:53,Inactive
+,,,customer727@example.com,9.18194E+11,11/15/2025 12:05,
+729,Customer_728,Customer_728,customer728@example.com,9.17158E+11,9/17/2025 0:51,active
+730,Customer_729,Customer_729,CUSTOMER729@EXAMPLE.COM,9.17468E+11,3/4/2025 15:45,inactive
+731,Customer_730,Customer_730,customer730@example.com,9.19415E+11,10/19/2025 0:18,Inactive
+732, Customer_731 , Customer_731 ,customer731@example.com,9.18583E+11,1/27/2025 6:41,unknown
+733,   ,   ,customer732@example.com,9.17524E+11,5/8/2025 20:26,ACTIVE
+734,Customer_733,Customer_733,customer733@example.com,9.17469E+11,7/25/2025 10:08,
+735,Customer_734,Customer_734,customer734@example.com,9.18233E+11,5/3/2025 21:53,unknown
+736,Customer_735,Customer_735,customer735@example.com,9.19638E+11,10/11/2025 4:29,
+737,Customer_736,Customer_736,customer736@example.com,9.18248E+11,2025-13-01 25:61:00,active
+738,Customer_737!!@#,Customer_737!!@#,customer737@example.com,9.19643E+11,1/18/2025 16:01,Inactive
+739,Customer_738,Customer_738,,9.17864E+11,3/11/2025,ACTIVE
+740,Customer_739,Customer_739,customer739@example.com,9.17489E+11,6/3/2025 19:26,ACTIVE
+741,,,customer740@example.com@@domain,9.1842E+11,7/6/2025 1:36,
+742,Customer_741,Customer_741,customer741@example.com,9.19694E+11,7/28/2025 12:54,unknown
+743,Customer_742,Customer_742,customer742@example.com,9.17241E+11,8/8/2025 9:38,ACTIVE
+744,Customer_743,Customer_743,customer743@example.com,9.19944E+11,18-05-2025,unknown
+745,Customer_744,Customer_744,customer744@example.com,9.18612E+11,3/6/2025 10:56,unknown
+746,Customer_745,Customer_745,customer745@example.com,9.18324E+11,2025-13-01 25:61:00,ACTIVE
+747,Customer_746,Customer_746,customer746@example.com,9.18941E+11,3/25/2025 22:34,ACTIVE
+748,Customer_747,Customer_747,,9.17868E+11,2025-13-01 25:61:00,Inactive
+749,Customer_748,Customer_748,customer748@example.com,9.19076E+11,5/1/2025 12:45,
+750,Customer_749,Customer_749,customer749@example.com,9.19217E+11,3/21/2025 16:28,inactive
+751,Customer_750,Customer_750,customer750@example.com,9.17018E+11,9/24/2025 19:47,active
+752,Customer_751,Customer_751,customer751@example.com,9.17443E+11,10/17/2025 13:04,
+753,Customer_752,Customer_752,customer752@example.com,9.18378E+11,4/18/2025 10:33,ACTIVE
+754,Customer_753,Customer_753,customer753@example.com,9.17676E+11,8/30/2025 22:16,active
+755,Customer_754,Customer_754,customer754@example.com,9.18164E+11,11/9/2025 5:50,
+756,CUSTOMER_755,CUSTOMER_755,customer755@example.com,9.18455E+11,2025-13-01 25:61:00,active
+757,   ,   ,customer756@example.com,9.1737E+11,10/1/2025 16:04,inactive
+758,Customer_757,Customer_757,customer757@example.com,9.19647E+11,11/14/2025 11:06,ACTIVE
+759,Customer_758,Customer_758,CUSTOMER758@EXAMPLE.COM,9.19E+11,11/12/2025 16:19,active
+760, Customer_759 , Customer_759 ,customer759@example.com,9.19768E+11,7/2/2025 17:48,Inactive
+761,Customer_760,Customer_760,customer760@example.com,9.18561E+11,12/23/2025 5:31,
+762,Customer_761,Customer_761,customer761@example.com,   ,5/17/2025 11:39,active
+763,Customer_762,Customer_762,customer762@example.com,+919468224333!!@#,6/7/2025 13:16,active
+764,Customer_763,Customer_763,customer763@example.com,9.18298E+11,8/18/2025 8:11,Inactive
+765,Customer_764,Customer_764,customer764@example.com,   ,11/13/2025 2:14,inactive
+-1,Customer_765,Customer_765,customer765@example.com,9.1847E+11,3/9/2025 5:16,inactive
+767,Customer_766,Customer_766,customer766@example.com,+919090061251!!@#,6/29/2025 18:37,
+768,Customer_767,Customer_767,customer767@example.com,   ,9/24/2025 5:24,active
+769,Customer_768,Customer_768,customer768@example.com,   ,11/14/2025 7:18,inactive
+770,Customer_769,Customer_769,customer769@example.com,9.1763E+11,7/26/2025 7:39,Inactive
+771,Customer_770,Customer_770,customer770@example.com,9.1836E+11,12/21/2025 15:40,unknown
+772,Customer_771,Customer_771,customer771@example.com,9.18479E+11,1/4/2025 3:40,
+773,Customer_772,Customer_772,customer772@example.com,9.17268E+11,,
+774,Customer_773,Customer_773, customer773@example.com ,9.18212E+11,6/17/2025 15:52,inactive
+775,Customer_774,Customer_774,customer774@example.com,9.18639E+11,9/15/2025 6:49,inactive
+776,Customer_775,Customer_775,customer775@example.com,9.18547E+11,4/23/2025 0:44,inactive
+777,Customer_776,Customer_776,CUSTOMER776@EXAMPLE.COM,9.17067E+11,9/13/2025 12:19,Inactive
+778,CUSTOMER_777,CUSTOMER_777,customer777@example.com,9.18786E+11,9/28/2025 1:30,unknown
+779,Customer_778,Customer_778,customer778@example.com,9.19371E+11,5/18/2025 23:42,Inactive
+780,,,customer779@example.com,9.18017E+11,6/9/2025 13:17,ACTIVE
+781,,,,9.19076E+11,8/14/2025 8:29,active
+-1,Customer_781,Customer_781,customer781@example.com,9.182E+11,7/23/2025 6:02,active
+783,Customer_782,Customer_782,customer782@example.com,9.19872E+11,7/29/2025 9:40,
+784,   ,   ,customer783@example.com,9.17046E+11,12/18/2025 21:02,
+785,Customer_784,Customer_784,customer784@example.com,9.18265E+11,9/27/2025 22:20,active
+786,Customer_785,Customer_785,customer785@example.com,9.17264E+11,3/7/2025 15:55,
+787,Customer_786,Customer_786,customer786@example.com,9.17117E+11,2/19/2025 6:03,active
+788,Customer_787,Customer_787,customer787@ex@mple.com,9.18207E+11,1/6/2025 12:22,ACTIVE
+789,Customer_788,Customer_788,customer788@example.com,9.19831E+11,3/10/2025 2:50,unknown
+790,Customer_789,Customer_789,customer789@example.com,9.17142E+11,2/26/2025 8:09,active
+791,Customer_790,Customer_790,customer790@example.com,9.18774E+11,9/14/2025 13:51,inactive
+INVALID_ID,Customer_791,Customer_791,customer791@example.com,   ,10/21/2025 9:37,ACTIVE
+793,Customer_792,Customer_792,customer792@example.com,9.19046E+11,12/25/2025 5:56,unknown
+794,Customer_793,Customer_793,customer793@example.com,9.17623E+11,1/5/2025 14:34,Inactive
+795,Customer_794,Customer_794,customer794@example.com,9.19277E+11,2/7/2025 19:30,active
+796,Customer_795,Customer_795,customer795@example.com,9.19801E+11,4/15/2025 23:37,ACTIVE
+797,Customer_796,Customer_796,customer796@example.com,9.199E+11,9/18/2025 22:28,
+INVALID_ID,Customer_797,Customer_797,customer797@example.com,9.17773E+11,,active
+799,Customer_798,Customer_798,customer798@example.com,9.19944E+11,10/9/2025 15:49,inactive
+800,,, customer799@example.com ,9.19552E+11,3/26/2025 4:57,unknown
+801,Customer_800,Customer_800,customer800@example.com!!@#,+919597105677!!@#,10/24/2025 15:40,
+-1,Customer_801,Customer_801,customer801@example.com,9.19988E+11,7/1/2025 8:20,ACTIVE
+803,Customer_802,Customer_802,customer802@example.com,9.18834E+11,10/26/2025 23:48,
+804,Customer_803,Customer_803,customer803@example.com,9.17268E+11,1/24/2025 7:47,ACTIVE
+805,Customer_804,Customer_804,   ,9.17862E+11,9/8/2025 16:20,inactive
+,Customer_805,Customer_805,customer805@example.com,9.19763E+11,10/5/2025 20:00,Inactive
+,CUSTOMER_806,CUSTOMER_806,customer806@example.com,,2/27/2025 19:25,Inactive
+808,,,customer807@example.com,9.17651E+11,,Inactive
+809,Customer_808,Customer_808,customer808@example.com,9.18735E+11,11/12/2025 10:57,unknown
+810,,,customer809@example.com,+919070459171!!@#,12/30/2025 3:13,
+-1,Customer_810,Customer_810,   ,9.19779E+11,11/28/2025 9:43,
+812,Customer_811,Customer_811,customer811@example.com,9.19782E+11,1/16/2025 6:35,
+813,Customer_812,Customer_812,customer812@example.com,9.17459E+11,7/8/2025 22:32,ACTIVE
+INVALID_ID,Customer_813,Customer_813,customer813@ex@mple.com,,4/3/2025 14:50,
+,Customer_814,Customer_814,customer814@example.com,9.19293E+11,6/24/2025 11:50,unknown
+816,Customer_815,Customer_815,customer815@example.com,9.17184E+11,11/10/2025 10:45,inactive
+,Customer_816,Customer_816,customer816@example.com,9.19305E+11,4/1/2025 11:35,
+818,Customer_817,Customer_817,customer817@example.com,9.19024E+11,1/18/2025 18:54,
+819,,,customer818@example.com,9.1832E+11,6/27/2025 3:56,active
+820,   ,   ,customer819@example.com,9.1749E+11,8/28/2025 2:04,unknown
+821,Customer_820,Customer_820,customer820@example.com,9.19914E+11,9/23/2025 16:09,active
+822,Customer_821,Customer_821,customer821@example.com,9.17196E+11,1/25/2025 13:16,ACTIVE
+823,Customer_822,Customer_822,customer822@example.com,9.19377E+11,12/26/2025 11:55,inactive
+,Customer_823,Customer_823,customer823@example.com,9.18615E+11,12/8/2025 14:43,active
+825,Customer_824,Customer_824,CUSTOMER824@EXAMPLE.COM,9.19799E+11,6/11/2025 15:28,ACTIVE
+826,Customer_825,Customer_825,customer825@example.com!!@#,9.17615E+11,6/24/2025 22:12,
+827,Customer_826,Customer_826,,9.17773E+11,2/4/2025 4:25,
+828,Customer_827,Customer_827,,9.18012E+11,2/7/2025 3:50,
+829,Customer_828,Customer_828,customer828@example.com,9.18994E+11,3/22/2025 19:42,
+INVALID_ID,Customer_829,Customer_829,customer829@example.com,9.19038E+11,9/18/2025 6:10,inactive
+,Customer_830,Customer_830,customer830@example.com,9.1808E+11,12/12/2025 16:08,unknown
+-1,Customer_831,Customer_831,customer831@example.com,9.17755E+11,7/8/2025 9:05,active
+833,Customer_832,Customer_832,customer832@example.com,9.1949E+11,10/18/2025 3:21,inactive
+834,Customer_833,Customer_833,customer833@example.com,9.17421E+11,12/4/2025 19:55,Inactive
+835,CUSTOMER_834,CUSTOMER_834,customer834@example.com,9.17233E+11,3/25/2025 22:48,inactive
+,Customer_835,Customer_835,customer835@ex@mple.com,9.17834E+11,3/20/2025 12:44,ACTIVE
+837,Customer_836,Customer_836,customer836@example.com,9.17477E+11,6/12/2025 10:07,Inactive
+838,Customer_837,Customer_837,customer837@example.com,9.1974E+11,8/13/2025 12:28,inactive
+839,CUSTOMER_838,CUSTOMER_838,customer838@example.com,9.19101E+11,8/18/2025 17:56,inactive
+840,,,customer839@example.com,9.18059E+11,8/14/2025 1:01,Inactive
+841,Customer_840,Customer_840,customer840@example.com,9.17022E+11,1/16/2025 13:22,active
+842,Customer_841,Customer_841,customer841@example.com,9.18694E+11,9/28/2025 13:16,unknown
+843,Customer_842,Customer_842,customer842@example.com,9.17053E+11,3/26/2025 15:58,Inactive
+844,Customer_843,Customer_843, customer843@example.com ,9.19061E+11,10/1/2025 3:16,inactive
+845,Customer_844,Customer_844,customer844@example.com,9.18992E+11,10/1/2025 1:41,unknown
+846,Customer_845,Customer_845,customer845@example.com,,1/28/2025 10:57,
+847,Customer_846,Customer_846,customer846@example.com,9.18159E+11,7/30/2025 15:51,
+848,Customer_847,Customer_847,customer847@example.com,9.18442E+11,7/19/2025 21:41,active
+849,Customer_848,Customer_848,customer848@example.com!!@#,9.1857E+11,5/22/2025 23:22,active
+850,Customer_849,Customer_849,customer849@example.com,9.17879E+11,4/3/2025 16:13,ACTIVE
+851,Customer_850,Customer_850,customer850@example.com,9.17901E+11,3/29/2025 13:13,unknown
+852,Customer_851,Customer_851,customer851@example.com,   ,6/25/2025 16:46,ACTIVE
+853,Customer_852!!@#,Customer_852!!@#,customer852@example.com,9.19913E+11,6/25/2025 12:44,ACTIVE
+854,Customer_853,Customer_853,customer853@example.com,9.17282E+11,2/3/2025 21:46,Inactive
+855,Customer_854,Customer_854,customer854@example.com,9.1747E+11,9/28/2025 17:16,active
+856,Customer_855,Customer_855,customer855@example.com,9.17097E+11,7/30/2025 6:32,
+857,Customer_856,Customer_856,customer856@example.com,9.17092E+11,1/9/2025 13:23,active
+858,Customer_857,Customer_857,customer857@example.com,9.18768E+11,9/8/2025 21:38,
+859,Customer_858,Customer_858,customer858@example.com,9.19356E+11,8/9/2025 7:10,ACTIVE
+860,Customer_859,Customer_859,customer859@example.com,9.1908E+11,10/26/2025 22:35,ACTIVE
+861,Customer_860,Customer_860,customer860@example.com,9.19657E+11,7/27/2025 21:30,
+862,Customer_861,Customer_861,customer861@example.com,9.19862E+11,4/3/2025 9:26,inactive
+863,Customer_862,Customer_862,customer862@example.com,9.18588E+11,2025-13-01 25:61:00,
+,Customer_863,Customer_863,customer863@example.com,9.19319E+11,4/28/2025 2:44,
+865,Customer_864,Customer_864,customer864@example.com,9.18967E+11,1/2/2025 16:01,inactive
+866,Customer_865,Customer_865,customer865@example.com,9.18269E+11,10/20/2025 21:17,ACTIVE
+,Customer_866,Customer_866,customer866@example.com,9.18899E+11,10/12/2025 3:23,active
+868,Customer_867,Customer_867,customer867@example.com!!@#,9.17106E+11,3/27/2025 13:56,unknown
+869,   ,   ,customer868@example.com,9.19506E+11,12/30/2025 9:01,unknown
+870,CUSTOMER_869,CUSTOMER_869,customer869@example.com,9.19908E+11,7/18/2025 18:12,active
+871,Customer_870,Customer_870,customer870@example.com,9.17241E+11,6/4/2025 9:30,ACTIVE
+-1,Customer_871,Customer_871,customer871@example.com,9.18223E+11,6/23/2025 1:04,ACTIVE
+873,Customer_872,Customer_872,customer872@example.com,9.18785E+11,3/5/2025 14:38,ACTIVE
+874,Customer_873,Customer_873,customer873@example.com,9.17599E+11,2/3/2025 10:18,
+,Customer_874,Customer_874,customer874@example.com,   ,10/21/2025 15:29,
+876,Customer_875,Customer_875,customer875@example.com,9.17751E+11,8/9/2025 13:21,
+877,Customer_876,Customer_876,customer876@example.com,9.19379E+11,11/17/2025 21:11,unknown
+878,Customer_877,Customer_877,customer877@example.com,,3/1/2025 19:36,active
+879,Customer_878,Customer_878,customer878@example.com,9.19808E+11,6/12/2025 0:10,ACTIVE
+880,Customer_879,Customer_879,,9.18191E+11,8/21/2025 14:04,active
+881,Customer_880,Customer_880,customer880@example.com,9.19697E+11,11/14/2025 18:55,
+882,Customer_881,Customer_881,customer881@example.com,9.17699E+11,5/5/2025 3:38,inactive
+883,Customer_882,Customer_882,   ,9.18551E+11,1/19/2025 22:03,ACTIVE
+884,Customer_883,Customer_883,customer883@example.com,9.19697E+11,8/21/2025 12:52,active
+885,Customer_884,Customer_884,customer884@example.com,9.19942E+11,9/24/2025 4:47,ACTIVE
+886,Customer_885,Customer_885,customer885@example.com,,4/20/2025 7:00,
+887,Customer_886,Customer_886,customer886@example.com,9.1744E+11,3/27/2025 20:55,
+888,Customer_887,Customer_887,customer887@example.com,9.19258E+11,8/3/2025 0:44,
+889,Customer_888,Customer_888,customer888@example.com,9.17501E+11,7/6/2025 5:26,active
+,Customer_889,Customer_889,customer889@example.com,9.19567E+11,3/8/2025 21:05,ACTIVE
+891,Customer_890,Customer_890,customer890@example.com,9.19982E+11,4/30/2025 9:26,inactive
+,CUSTOMER_891,CUSTOMER_891,customer891@example.com,9.1748E+11,7/8/2025 1:34,unknown
+, Customer_892 , Customer_892 ,customer892@example.com,9.19205E+11,2/16/2025 4:26,Inactive
+894,Customer_893,Customer_893,,9.17414E+11,3/21/2025 18:28,
+895,Customer_894,Customer_894,,9.17625E+11,8/14/2025 3:40,ACTIVE
+896,Customer_895,Customer_895,customer895@example.com,9.18039E+11,2/8/2025 11:43,active
+897,Customer_896,Customer_896,customer896@example.com,9.18211E+11,,unknown
+898,Customer_897,Customer_897,customer897@example.com,9.19039E+11,3/13/2025 21:29,
+899,Customer_898,Customer_898,customer898@example.com,9.1863E+11,3/30/2025 8:57,
+900,Customer_899,Customer_899,customer899@example.com,9.19232E+11,5/21/2025 7:05,unknown
+901,,,customer900@example.com,9.17497E+11,8/22/2025 4:02,Inactive
+INVALID_ID,Customer_901,Customer_901,customer901@example.com,9.18749E+11,6/16/2025 4:53,unknown
+903,Customer_902,Customer_902,customer902@example.com,9.19917E+11,9/19/2025 19:36,active
+904,Customer_903,Customer_903,customer903@example.com,+917365097623!!@#,6/5/2025 14:05,Inactive
+905,Customer_904,Customer_904,customer904@example.com,   ,5/12/2025 12:16,inactive
+906,Customer_905,Customer_905,customer905@example.com,9.18824E+11,10/25/2025 0:36,ACTIVE
+907,Customer_906,Customer_906,customer906@example.com,9.19765E+11,7/4/2025 19:01,ACTIVE
+908,Customer_907,Customer_907,customer907@example.com,9.17633E+11,2/17/2025 10:53,active
+,Customer_908,Customer_908,customer908@ex@mple.com,9.17428E+11,1/27/2025 11:56,unknown
+-1,Customer_909,Customer_909,customer909@example.com,9.18404E+11,8/31/2025 0:56,
+911,Customer_910,Customer_910,customer910@example.com,9.19002E+11,7/13/2025 8:45,
+912,Customer_911,Customer_911,customer911@example.com,,1/13/2025 6:31,unknown
+913,Customer_912!!@#,Customer_912!!@#,customer912@example.com,9.18616E+11,1/13/2025 18:16,active
+914,Customer_913,Customer_913,customer913@example.com,9.17705E+11,5/2/2025 8:20,inactive
+915, Customer_914 , Customer_914 ,customer914@example.com,9.19835E+11,8/11/2025 5:23,
+916,Customer_915,Customer_915,   ,9.18131E+11,8/28/2025 14:17,Inactive
+917,Customer_916,Customer_916,   ,,5/23/2025 7:11,unknown
+918,,,customer917@example.com,9.18466E+11,5/15/2025 0:57,Inactive
+INVALID_ID,   ,   ,customer918@example.com,9.18008E+11,2/2/2025 23:42,
+920,Customer_919,Customer_919,customer919@example.com,9.17085E+11,6/28/2025 23:59,active
+921,Customer_920,Customer_920,customer920@example.com,9.17088E+11,1/9/2025 15:15,
+922,Customer_921,Customer_921,customer921@example.com,9.19097E+11,3/21/2025 23:12,
+923,Customer_922,Customer_922,customer922@example.com,9.19641E+11,3/20/2025 8:31,Inactive
+924,Customer_923,Customer_923,customer923@example.com,9.19301E+11,1/19/2025 11:01,ACTIVE
+925,Customer_924,Customer_924,customer924@example.com,9.17395E+11,2/6/2025 18:58,
+926,Customer_925,Customer_925,customer925@example.com,9.18834E+11,1/30/2025 18:32,unknown
+927,Customer_926,Customer_926,customer926@example.com,9.19319E+11,6/6/2025 5:43,Inactive
+928,Customer_927,Customer_927,customer927@example.com,9.1708E+11,12/2/2025 1:02,
+929,Customer_928,Customer_928,customer928@example.com,9.19007E+11,7/26/2025 21:18,
+930,Customer_929,Customer_929,customer929@example.com,   ,5/22/2025 11:17,inactive
+931,Customer_930,Customer_930,customer930@example.com,9.1887E+11,11/19/2025 10:09,unknown
+932,Customer_931,Customer_931,customer931@example.com,9.18233E+11,9/24/2025 17:57,ACTIVE
+933,Customer_932!!@#,Customer_932!!@#,customer932@example.com,9.18055E+11,6/30/2025 6:16,ACTIVE
+934,Customer_933,Customer_933,customer933@example.com,9.17868E+11,1/12/2025 7:37,inactive
+935,Customer_934,Customer_934,customer934@example.com@@domain,9.17181E+11,,Inactive
+936,CUSTOMER_935,CUSTOMER_935,customer935@example.com,9.17273E+11,12/15/2025 6:31,Inactive
+999999, Customer_936 , Customer_936 ,customer936@example.com,9.17604E+11,10/13/2025 5:51,
+938,Customer_937,Customer_937,customer937@example.com,9.19256E+11,4/3/2025 11:02,active
+939,Customer_938,Customer_938,customer938@example.com,9.18675E+11,4/2/2025 15:06,
+940, Customer_939 , Customer_939 ,customer939@example.com,9.18179E+11,12/2/2025 2:48,ACTIVE
+941,Customer_940,Customer_940,customer940@example.com,9.18359E+11,9/23/2025 3:35,Inactive
+942,Customer_941,Customer_941,customer941@ex@mple.com,9.19041E+11,2025-13-01 25:61:00,unknown
+943,Customer_942,Customer_942,customer942@example.com,9.19844E+11,9/26/2025 5:37,active
+999999,Customer_943,Customer_943,customer943@example.com,9.19744E+11,12/17/2025 18:02,ACTIVE
+945,Customer_944,Customer_944,customer944@example.com,,12/27/2025 4:59,Inactive
+946, Customer_945 , Customer_945 ,customer945@example.com,9.18011E+11,12/12/2025 17:42,unknown
+947,Customer_946,Customer_946,customer946@example.com,9.19768E+11,4/17/2025 10:12,active
+948,Customer_947,Customer_947,customer947@example.com,9.18774E+11,10/6/2025 14:31,ACTIVE
+949, Customer_948 , Customer_948 ,customer948example.com,9.18121E+11,6/13/2025 10:47,ACTIVE
+950,Customer_949,Customer_949,customer949@example.com,9.17117E+11,9/7/2025 4:04,
+951,Customer_950,Customer_950,,9.17859E+11,8/12/2025 14:55,ACTIVE
+952,Customer_951,Customer_951,customer951@example.com,9.19788E+11,8/19/2025 16:37,unknown
+953,Customer_952,Customer_952,customer952@example.com,9.17573E+11,8/19/2025 7:21,
+954,Customer_953,Customer_953,customer953@example.com,9.17781E+11,11/21/2025 3:46,Inactive
+955,Customer_954,Customer_954,customer954@example.com,9.19779E+11,12/19/2025 4:24,inactive
+-1,Customer_955,Customer_955,customer955@example.com,9.17214E+11,8/22/2025 4:03,Inactive
+957,Customer_956,Customer_956,customer956@example.com,,6/18/2025 23:58,
+958,Customer_957,Customer_957,customer957@example.com,9.17964E+11,12/1/2025 17:49,inactive
+959,Customer_958,Customer_958,customer958@example.com,9.18852E+11,3/25/2025 17:13,
+960,Customer_959,Customer_959,customer959@example.com,9.18755E+11,4/23/2025 16:47,active
+961,Customer_960,Customer_960,customer960@example.com,9.19504E+11,,Inactive
+962,Customer_961,Customer_961,customer961@example.com,9.1995E+11,10/3/2025 3:15,Inactive
+963,CUSTOMER_962,CUSTOMER_962,customer962@example.com,9.17224E+11,7/2/2025 21:24,inactive
+964,Customer_963,Customer_963,customer963@example.com,9.19569E+11,,unknown
+965,Customer_964,Customer_964,customer964@example.com,9.19883E+11,1/16/2025 23:18,
+966,Customer_965,Customer_965,customer965@example.com,9.1901E+11,10/3/2025 20:03,ACTIVE
+967,Customer_966!!@#,Customer_966!!@#,,9.17549E+11,4/20/2025 3:06,unknown
+968,Customer_967,Customer_967,customer967@example.com,9.19633E+11,7/20/2025 18:32,ACTIVE
+INVALID_ID,Customer_968,Customer_968,customer968@example.com,9.1765E+11,9/5/2025 6:01,
+999999,Customer_969,Customer_969,customer969@example.com,9.17154E+11,10/2/2025 4:03,inactive
+971,Customer_970,Customer_970,customer970@example.com,9.18896E+11,8/6/2025 19:32,
+972,Customer_971,Customer_971,customer971@example.com,9.17531E+11,12/4/2025 3:57,inactive
+973,Customer_972,Customer_972,customer972@example.com,9.19419E+11,3/24/2025 11:40,
+974,Customer_973,Customer_973,customer973@example.com,9.18789E+11,10/26/2025 8:38,inactive
+975,Customer_974,Customer_974,customer974@example.com,+919923324008!!@#,8/18/2025 6:21,ACTIVE
+976,Customer_975,Customer_975,,9.18977E+11,7/6/2025 8:34,
+977,Customer_976,Customer_976,,9.17188E+11,5/7/2025 4:25,Inactive
+978,Customer_977,Customer_977,customer977@example.com,9.17555E+11,11/8/2025 7:03,active
+979,   ,   ,CUSTOMER978@EXAMPLE.COM,9.19587E+11,4/10/2025 2:17,Inactive
+980,Customer_979,Customer_979,CUSTOMER979@EXAMPLE.COM,9.17894E+11,6/6/2025 6:36,unknown
+981,Customer_980,Customer_980,customer980@example.com!!@#,9.19108E+11,11/10/2025 3:45,
+982,Customer_981,Customer_981,customer981@example.com,9.17413E+11,3/19/2025 14:56,
+983,Customer_982,Customer_982,customer982@example.com,9.18817E+11,11/11/2025 23:00,Inactive
+984,Customer_983,Customer_983, customer983@example.com ,9.19205E+11,9/20/2025 16:52,Inactive
+-1,Customer_984,Customer_984,customer984@example.com,9.19704E+11,4/23/2025 21:32,active
+986,Customer_985,Customer_985,customer985@example.com,9.17549E+11,11/23/2025 19:42,ACTIVE
+987,Customer_986,Customer_986,customer986@example.com,9.17194E+11,6/15/2025 0:28,
+999999,Customer_987,Customer_987,customer987@example.com,9.18527E+11,10/26/2025 12:18,active
+989,Customer_988,Customer_988,customer988@example.com@@domain,9.17783E+11,2/2/2025 8:19,active
+990,Customer_989,Customer_989,customer989@example.com,9.19879E+11,4/13/2025 22:40,unknown
+991,Customer_990,Customer_990,customer990@example.com,9.17336E+11,4/11/2025 17:00,
+992,Customer_991,Customer_991,,,7/5/2025 7:04,
+993,Customer_992,Customer_992,customer992@example.com,9.1909E+11,8/28/2025 12:28,unknown
+994,Customer_993,Customer_993,customer993@example.com,9.183E+11,1/6/2025 9:19,inactive
+995,Customer_994,Customer_994,customer994@example.com@@domain,9.17115E+11,2/26/2025 8:56,
+996,Customer_995,Customer_995,customer995@example.com,9.1782E+11,6/29/2025 23:26,unknown
+997,Customer_996!!@#,Customer_996!!@#,customer996@example.com,9.18912E+11,1/8/2025 14:56,Inactive
+998,Customer_997,Customer_997,customer997@example.com,   ,2/9/2025 20:53,active
+999,Customer_998,Customer_998,customer998@example.com,9.19485E+11,2025-13-01 25:61:00,
+INVALID_ID,Customer_999,Customer_999,customer999@example.com,9.19915E+11,7/9/2025 11:34,unknown
