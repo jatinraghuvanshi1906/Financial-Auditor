@@ -11,8 +11,8 @@ def send_fraud_alert_email(
     high_severity_count,
     ai_insights=None
 ):
-    sender_email = "jatinraghuvanshi1906@gmail.com"     #senders email
-    sender_password = "wizb ifgf cvya gqsm"             # app generated gmail password 
+    sender_email = ""     #senders email to be mentioned in quotes
+    sender_password = ""  # app generated gmail password to be mentioned in quotes
     subject = "Financial Audit Fraud Alert"
 
     # Convert AI insights to HTML
