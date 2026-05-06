@@ -57,26 +57,6 @@ CREATE TABLE stg_currency (
     exchange_rate TEXT
 );
 
--- Fraud Flags
-CREATE TABLE stg_fraud_flags (
-    flag_id TEXT,
-    transaction_id TEXT,
-    issue_type TEXT,
-    severity TEXT,
-    created_at TEXT
-);
-
--- Audit Logs
-CREATE TABLE stg_audit_logs (
-    log_id TEXT,
-    table_name TEXT,
-    record_id TEXT,
-    audit_action TEXT,
-    old_value TEXT,
-    new_value TEXT,
-    changed_at TEXT
-);
-
 -- Accounts
 CREATE TABLE stg_accounts (
     account_id TEXT,
