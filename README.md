@@ -1,5 +1,6 @@
 # Financial-Auditor
-Financial auditor system for fraud detection &amp; AI insights that ingests business data, identifies anomalies using SQL + ML + LLM insights, and visualizes actionable risk intelligence through an interactive Streamlit dashboard.
+Financial Audit System
+This is  end-to-end automated system that ingests raw data , identifies anomalies and generate actionable AI insights. System visualizes generated audit results ,predicts future revenue patterns.  And sends report via email  to user in an interactive Streamlit dashboard connected to database via PostgresSQL.
 
 # Project Structure
 Audit_project/
@@ -33,7 +34,7 @@ Audit_project/
   Database GUI: pgAdmin
   Web Framework: Streamlit
 -Programming
-  Python (pandas, numpy, psycopg2)
+  Python (pandas, numpy, psycopg2,smtplib)
 -Forecasting Model
   ARIMA
 -AI Integration
